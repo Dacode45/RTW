@@ -15,10 +15,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install pandoc
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc
+      - name: Install pandoc (cached)
+        uses: awalsh128/cache-apt-pkgs-action@v1
+        with:
+          packages: pandoc
+          version: 1.0
 
       - name: Build EPUB
         run: |

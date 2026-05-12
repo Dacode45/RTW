@@ -29,7 +29,7 @@ Every push to `main` builds an EPUB from the repo's chapter markdown files using
 **Job (`ubuntu-latest`):**
 
 1. **Checkout** — `actions/checkout@v4`.
-2. **Install pandoc** — `sudo apt-get update && sudo apt-get install -y pandoc`. Ubuntu's package is current enough for EPUB output; no third-party setup action needed.
+2. **Install pandoc (cached)** — `awalsh128/cache-apt-pkgs-action@v1` with `packages: pandoc`. Caches the apt package so subsequent runs skip the ~30 MB download.
 3. **Build EPUB:**
    ```bash
    pandoc -o RTW.epub --toc --toc-depth=1 \
@@ -46,7 +46,7 @@ Every push to `main` builds an EPUB from the repo's chapter markdown files using
 
 ## Design choices
 
-- **Pandoc via apt** rather than `pandoc/actions/setup` — fewer moving parts, the Ubuntu runner's pandoc is recent enough for our needs, and we avoid pinning a third-party action's version.
+- **Pandoc via `cache-apt-pkgs-action`** rather than plain `apt-get install` — caches the apt package between runs so pandoc isn't redownloaded every push. The Ubuntu pandoc package is current enough for EPUB output.
 - **Glob + sort** rather than an explicit file list — keeps the workflow stable as new chapters are added. The lexicographic sort works because filenames are zero-padded (`CH001`, `CH041`, …).
 - **Rolling `latest` release** rather than per-push tags — matches user choice; gives a stable download URL for an in-progress work.
 - **TOC depth 1** — each `# Chapter N:` heading becomes a top-level TOC entry. Sub-headings inside chapters (if any) won't clutter the TOC.
