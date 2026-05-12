@@ -27,7 +27,7 @@ jobs:
             --metadata title="RTW" \
             --metadata author="Dacode45" \
             --metadata lang=en-US \
-            $(ls CH*.md | sort)
+            $(ls book/CH*.md | sort)
 
       - name: Publish rolling "latest" release
         uses: softprops/action-gh-release@v2
