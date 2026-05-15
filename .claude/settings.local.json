@@ -3,7 +3,12 @@
     "allow": [
       "Bash(git add *)",
       "Bash(git commit -m ' *)",
-      "WebFetch(domain:github.com)"
+      "WebFetch(domain:github.com)",
+      "Bash(python3 -c \"import pymupdf4llm\")",
+      "Bash(python3 -c \"import fitz\")",
+      "Bash(brew list *)",
+      "Bash(pip install *)",
+      "Bash(python3 *)"
     ]
   }
 }
