@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project rewrites **CH1-150.md** (a translated web novel, "Release That Witch") into polished literary prose. Each chapter becomes an individual Pandoc Markdown file in `book/` (e.g., `book/CH001.md`, `book/CH042.md`, …, `book/CH150.md`). The source md contains rough/translated prose; the output should read like published fiction in the rhythmic-precision register described by the style guide.
+This project rewrites (pdfs and markdown files in "source" directory) (a translated web novel, "Release That Witch") into polished literary prose. Each chapter becomes an individual Pandoc Markdown file in `book/` (e.g., `book/CH001.md`, `book/CH042.md`, …, `book/CH150.md`). The source contains rough/translated prose; the output should read like published fiction in the rhythmic-precision register described by the style guide.
 
 **Key constraint:** Only style and grammar are rewritten. Plot, characters, proper nouns, chronology, scene order, and structure are preserved exactly.
 
@@ -22,11 +22,13 @@ This is the most important principle. When you rewrite a chapter:
 
 - **When in doubt, ask: Does this reveal character or advance theme?** If yes, it belongs. Tighten it, sharpen it, improve its rhythm—but preserve it.
 
+- **Ensure you don't duplicate chapters** After a rewrite, compare with the prior chapter and make sure you didn't include the same content twice. 
+
 ## Repository Layout
 
 ```
 RTW/
-├── CH1-150.md                          # Source material (do not modify)
+├── source/                         # Source material (do not modify)
 ├── Style_Guide_and_Grading_Rubric.md    # Master style & grading document
 ├── agent.md                             # This file
 ├── book/                                # Output: one .md per chapter
@@ -44,7 +46,7 @@ Each chapter goes through a **write → grade → revise** cycle using three dis
 ### Agent 1 — Rewriter
 
 - **System prompt:** Part One of `Style_Guide_and_Grading_Rubric.md` (the Rewriter's Checklist).
-- **Input:** The corresponding chapter from `CH1-150.md` (source prose).
+- **Input:** The corresponding chapter from source directory. Mardown and pdf files.  (source prose).
 - **Output:** A rewritten chapter saved as `book/CHXXX.md`.
 - **Rules:**
   - Follow the eight essential rules and the extensive catalogue.
@@ -118,8 +120,8 @@ Chapters must sort correctly by filename — hence the zero-padded numbering.
 
 ## Working With the Source md
 
-`CH1-150.md` is a large md. When processing:
-1. Extract one chapter at a time from the md.
+source files are large mds and pdfs. When processing:
+1. Extract one chapter at a time from the file.
 2. Identify chapter boundaries by headings/titles in the source.
 3. Process the full chapter text — do not truncate or summarize.
 
