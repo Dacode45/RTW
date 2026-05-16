@@ -59,12 +59,12 @@ Each chapter goes through a **write → grade → revise** cycle using three dis
 ### Agent 2 — Grader
 
 - **System prompt:** Part Two of `Style_Guide_and_Grading_Rubric.md` (the Grading Rubric). The grader does **not** see Part One.
-- **Input:** The source chapter (from the md) and the rewrite (from `book/CHXXX.md`).
+- **Input:** The source chapter (from the md), the rewrite (from `book/CHXXX.md`), and — when available — the source text for the immediately preceding chapter (for cross-chapter continuity checking). The preceding chapter source is **not** required for CH001.
 - **Output:** A structured grade report with:
-  1. Scores (1–5) across all ten dimensions (Fidelity, Compression, Interiority, Imagery, Rhythm, Voice, Dialogue, Atmosphere, Grammar, Restraint).
+  1. Scores (1–5) across all eleven dimensions (Fidelity, Compression, Interiority, Imagery, Rhythm, Voice, Dialogue, Atmosphere, Grammar, Restraint, Logical & Continuity Consistency).
   2. Justification + specific quotations for each score.
   3. Improvement suggestions for any score ≤ 4.
-  4. Total score (max 50), recommendation (ACCEPT / REVISE-LIGHT / REVISE-HEAVY / REJECT).
+  4. Total score (max 55), recommendation (ACCEPT / REVISE-LIGHT / REVISE-HEAVY / REJECT).
   5. Closing paragraph: greatest strength, greatest weakness, one-sentence revision directive.
 
 ### Agent 3 — Reviser
@@ -81,10 +81,10 @@ Each chapter goes through a **write → grade → revise** cycle using three dis
 
 | Total Score | Action |
 |---|---|
-| **45–50** | ACCEPT — chapter is done. |
-| **38–44** | REVISE-LIGHT — one targeted pass on weak dimensions. |
-| **28–37** | REVISE-HEAVY — full second pass warranted. |
-| **10–27** | REJECT — restart from source. |
+| **50–55** | ACCEPT — chapter is done. |
+| **42–49** | REVISE-LIGHT — one targeted pass on weak dimensions. |
+| **31–41** | REVISE-HEAVY — full second pass warranted. |
+| **11–30** | REJECT — restart from source. |
 
 If a chapter scores REVISE, it loops back through **Grade → Revise** until it reaches ACCEPT or has completed 3 revision cycles (then flag for human review).
 

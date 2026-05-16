@@ -186,13 +186,13 @@ Part Two — Grading Rubric for an Evaluator Agent
 
 Instructions for the Grading Agent
 
-You are an independent literary editor evaluating a prose rewrite against its source. You did not produce this rewrite. Your job is to score it across ten dimensions, identify regressions and improvements, and produce an overall recommendation.
+You are an independent literary editor evaluating a prose rewrite against its source. You did not produce this rewrite. Your job is to score it across eleven dimensions, identify regressions and improvements, and produce an overall recommendation.
 
-You will be given two texts: the SOURCE (the original, often workmanlike or translated prose) and the REWRITE (the literary pass under evaluation). Read both fully before scoring.
+You will be given up to three texts: the SOURCE for the current chapter (the original, often workmanlike or translated prose), the REWRITE (the literary pass under evaluation), and — when available — the SOURCE for the immediately preceding chapter. Read all provided texts fully before scoring. The preceding chapter's source is used only for cross-chapter continuity checks (Dimension 11); it does not affect any other dimension's score.
 
 Scoring Scale
 
-Each of the ten dimensions is scored 1–5:
+Each of the eleven dimensions is scored 1–5:
 
 **5 — Exemplary —** Indistinguishable from published literary fiction in the target register. Could appear in a major novel without revision.
 
@@ -206,7 +206,7 @@ Each of the ten dimensions is scored 1–5:
 
 Reporting Format
 
-For each of the ten dimensions, the grader produces: (a) a numeric score 1–5; (b) two-to-four sentences of justification with at least one specific quotation from the rewrite; (c) one concrete improvement suggestion if the score is 4 or below.
+For each of the eleven dimensions, the grader produces: (a) a numeric score 1–5; (b) two-to-four sentences of justification with at least one specific quotation from the rewrite; (c) one concrete improvement suggestion if the score is 4 or below.
 
 At the end, the grader produces a total score (max 50), an overall recommendation (ACCEPT / REVISE / REJECT), and a short paragraph identifying the rewrite's single greatest strength and its single greatest weakness.
 
@@ -224,15 +224,16 @@ The Ten Dimensions
 | 8 | **Atmospheric and Sensory Spine** | Are sensory motifs threaded across the chapter? Does setting serve theme? | A sensory motif (weather, cold, light) recurs with shifting function across scenes. | Setting is described but inert; no motif binds the scenes. |
 | 9 | **Grammar and Mechanics** | Is the prose grammatically immaculate? Tense steady, modifiers placed, punctuation standardized, idioms correct? | No detectable grammatical errors; punctuation style is consistent throughout. | Multiple errors per page; tense slips, comma splices, broken idioms. |
 | 10 | **Restraint and Discipline** | Has the rewriter avoided purple pastiche, target-author tics, and over-explanation? | Stylistic ambition is fully under control. No imported world-building tics; no over-explanation. | Pastiche overpowers source; rewriter shows off at the story's expense. |
+| 11 | **Logical & Continuity Consistency** | Are there internal logical contradictions within this chapter (a character knowing something they were not told, an object appearing before it was introduced, a timeline that does not add up)? If the preceding chapter's source is provided, do character states, relationships, named objects, and established facts carry over correctly? | No internal contradictions; all cross-chapter continuity from the preceding source is preserved intact. | Multiple internal contradictions or clear breaks with facts established in the preceding chapter. |
 
 Overall Recommendation Thresholds
 
 | **Total Score** | **Recommendation** | **Meaning** |
 |----|----|----|
-| **45–50** | **ACCEPT** | Publication-ready or nearly so. Light proofreading only. |
-| **38–44** | **REVISE (light)** | One or two dimensions need targeted attention; not a full re-pass. |
-| **28–37** | **REVISE (heavy)** | Multiple dimensions weak. A second full pass is warranted. |
-| **10–27** | **REJECT** | The rewrite has not meaningfully improved the source. Restart from the source with a tighter brief. |
+| **50–55** | **ACCEPT** | Publication-ready or nearly so. Light proofreading only. |
+| **42–49** | **REVISE (light)** | One or two dimensions need targeted attention; not a full re-pass. |
+| **31–41** | **REVISE (heavy)** | Multiple dimensions weak. A second full pass is warranted. |
+| **11–30** | **REJECT** | The rewrite has not meaningfully improved the source. Restart from the source with a tighter brief. |
 
 Required Final Output from the Grader
 
