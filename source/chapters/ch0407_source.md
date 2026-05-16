@@ -1,0 +1,71 @@
+Chapter 407: Tilly’s Questioning 
+
+Translator: TransN Editor: TransN 
+
+“You mean… she didn’t follow you to Sleeping Island?” The prince soon got what Tilly meant. 
+
+“Exactly.” Princess Tilly shook her head helplessly. “Her name is Spear Passi and her ability is magic power channeling. She can channel magic powers of several witches. In other words, a witch at one end of the channel can borrow magic powers from other witches connected, so you may need her help.” Tilly paused for a while and continued. “She lives right in Fallen Dragon Ridge.” 
+
+“Since you know so much about her, you must have contacted her,” Roland asked for further explanation, “and what’re the reasons for her to stay there? There’s a risk that she’ll be caught by the church.” 
+
+After a moment of silence, Tilly answered, “That’s because she’s a Marquess and Lord of Fallen Dragon Ridge.” 
+
+“Lord?” He was startled, “A witch?” 
+
+“Yes, her father Marquis Passi, the last Lord, gave the title and the territory to her, instead of to his second and third son. Due to her high rank, Spear can conceal her witch identity pretty well, and thus can lead a far better life than ordinary witches,” Tilly said slowly, “and she contacted me first and offered her help during the migrations. Because of her, I was able to quickly gather the witches from the towns in the southern and middle parts of the Kingdom.” 
+
+“‘She contacted me first’…”, Roland sensed something strange thereinto and asked, “Wait… She didn’t intend to give a shelter to her fellow witches?” 
+
+“No.” Tilly shook her head. “Not only that, she also wanted those witches to leave her territory as soon as possible and protect themselves from being tortured by the church. Spear apparently values her lord title more.” 
+
+Her Lord title would no doubt be in danger if the church found she was protecting witches. Unlike towns in the remote border area, Fallen Dragon Ridge had well-established churches and priests, and their believers greatly outnumbered those in the Western Region. Roland understood her choice but was still astonished. “If a witch in her territory is seized, will she… ” 
+
+“I asked her the same question, ” Tilly said with some sadness, “and Spear Passi bluntly told me if a witch was caught by the people, she would try to replace her in the jail with a death-row prisoner and secretly send her out of her territory; but if a witch was caught by the Verdict Army or judged by the church, she would just stand by.” 
+
+“…” Roland thought, “It turned out that Spear Passi voluntarily got in touch with Tilly because of the hidden danger of witches in Fallen Dragon Ridge. That was why Tilly chose to leave for the Fjords, which was a new place for her despite the risk of crossing the channel, instead of settling down in Fallen Dragon Ridge.” At this thought, he frowned and asked Tilly, “If I invite her to Border Town, will she come?” 
+
+“I won’t bank on that, but you may have a try,” Tilly threw up her hands and said, “I’m just telling you where you can find her but I’m not promising anything.” 
+
+Roland made a long sigh and said, “I’ll send a messenger to talk to her first.” 
+
+Without doubt, he would choose Nightingale as the messenger, given that she was able to avoid eyes and ears of the people when she got into the castle, and that she could also discern lies. As long as she made Spear believe she held no hostility, Spear would probably not overreact, either. 
+
+It generally took five or six days to travel from Border Town to Fallen Dragon Ridge by boat, but that trip would only cost Maggie half a day. They could bring Lightning, who acted faster as a helper. The three witches formed 
+
+a team of the highest mobility in the Witch Union, and now equipped with guns, they could both attack enemies and defend themselves. 
+
+Thinking about the plan for quite a while, Roland made up his mind. 
+
+Assuming that the Marquise did not agree to come, it was still a matter of time for him to investigate the situation of her territory. As an important passage on the way to the Southernmost Region, Fallen Dragon Ridge was included in his spring attack plan. 
+
+“I heard there’s a newly evolved witch in the castle?” Tilly suddenly switched the topic. 
+
+“Ah, you mean Mystery Moon. Yes, she did cohere her magic power,” Roland nodded and told Tilly about her evolvement process. “But using the ancient witches’ method to evolve is not very effective in increasing her magic power. To become someone like Anna, it still requires the thorough understanding of solid knowledge.” 
+
+“But the ancient way is still a method,” Tilly said with interest, “and there’s a point I find very interesting in what you said just now. What did you mean by ‘They’re not natural phenomena but only concrete forms of magic powers’?” 
+
+“That was my personal speculation.” He picked up his cup and had some tea. “Neither Anna’s Heart Fire nor her Blackfire is something you can find in nature, so it’s not hard to view them as concrete forms of magic powers, but what about the normal fires before the evolvement? So I assume the normal fires were also created by magic powers, and that it reflected what Anna perceived as ‘heat’. As her perception became more thorough and profound, the images of ‘heat” also changed. This explains exactly what Agatha has experienced. Many witches have similar abilities before their evolvement because they’ve observed the same natural phenomenon. After High Awakening, their abilities vary because their understandings of the phenomenon have huge differences.” 
+
+“Sounds quite reasonable,” Tilly replied without saying yes or no, “but according to your speculation, the witches of the same kind will evolve 
+
+almost the same new abilities if they’ve same understandings of the phenomenon, right?” 
+
+“Yes, pretty much like that, but under the condition that they’ve got exactly the same understanding abilities.” 
+
+Roland did not tell her another idea of his, which was to what extent magic powers could evolve. “Since magic power forms the foundation of all kinds of abilities, it is elementary and universal. Provided that there is a witch who understands everything in the nature, will she be able to display all kinds of abilities?” 
+
+“Are you… coming from a world without magic power?” Tilly suddenly questioned. 
+
+“Poof…” The tea nearly gushed out of the prince’s mouth. He wiped his mouth and asked, “What, what did you say?” 
+
+“I’ve gone through all the books written by you during this month and always felt something was wrong.” Princess Tilly looked at him in the eye. “I finally see what the problem is after hearing what you said just now. You separate magic power from the nature… Neither Natural Science Theoretical Foundation nor Elementary Physics mentions anything about magic power and you said concrete expressions of magic power were not something existing in the nature, but… magic power itself is a part of the nature.” 
+
+Roland was stunned. 
+
+He suddenly realized that he completely forgot Tilly lived in a world where magic power naturally existed. So did the previous Prince Roland, but he just placed magic power in a position opposite to natural phenomena and seemed to get used to it. 
+
+Blame the excess memories coming all of a sudden for this careless mistake? It probably won’t work this time. It is acceptable to say that Prince Roland wrote these books based entirely on his memories, but how to explain that he firmly believes in them and subconsciously separate magic power from the 
+
+nature? Is it possible for him to pledge that this is still the memory of the previous Prince Roland’s? 
+
+Roland swallowed hard. 

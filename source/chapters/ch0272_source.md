@@ -1,0 +1,93 @@
+Chapter 272 North Slope Mine 
+
+The further down into the mine, the more humid the environment became. 
+
+Sylvie was holding up a torch and gingerly evading the drop of water falling towards her head as she led the group further into the mine. Even without any light, her Eye of Truth wasn’t something that could be stopped by the darkness. Thus she merely used the torch to save her magic power. 
+
+“There is another fork in the road,” Nightingale who was walking at the front said after she stopped, “Which cave is this already?” 
+
+“Twenty-third after passing the first fork from the entryway,” Lightning answered, as she took a look at the records. 
+
+“I hope this is the last one,” Sylvie grumbled, then completely opened her magic eye, “The left side… spreads away from the mining area, there is no ore there. The right side… is the same.” 
+
+Lightning wrote down the results then announced, “In that case, those caverns were also the last gates we had to inspect.” 
+
+“Come on,” Nightingale said and went from the front to the end, leading everyone back. It didn’t seem that her ability was as simple as invisibility, Sylvie could only see faint changes in Nightingales’ magic power, but was ultimately unable to capture her figure or movement. According to Lightning’s introduction, she was the strongest fighting witch. 
+
+This may also be the reason why Roland had her to follow them. There were rumors that the mine had once been a nest for ancient monsters, and there had already been several events of miners going missing. Before their departure, His Highness had also told them several times that they had to be careful and that in case they couldn’t determine the situation, they should first exit the mine and report back to him. 
+
+However, Sylvie couldn’t accept this as correct. There existed no monster which could escape the investigation of her magic eye, even those animal corpses, and the twisting soft-bodied snakes within the walls were clearly visible to her. 
+
+There were four people in the expedition team, herself, Nightingale, Lightning, together with a little girl called Lucia. Every time they found some minerals, she would convert them into a variety of debris, and after carefully classifying them she would put them into her pocket, which would later be handed over to His Royal Highness. 
+
+Lightning was responsible for drawing the map of the mine, since in her own words, there didn’t exist any adventure from which she could be excluded. Hearing her prideful speech, Sylvie couldn’t help but think of the captain who was temporarily staying on Sleeping Island. 
+
+The 23rd cave was at the lower level of the mining site and could actually be regarded as an enormously deep hole. After penetrating several hundred steps into the mountain, it divided into three paths again, and after following each to their end, they would once again split into several branches. However, since they were at the exterior area of the mining site, with only the rare possibility of find any veins, they had decided to end their exploration. 
+
+Returning to the first fork, which Lightning had recorded as “Gate of Life”, Sylvie cast her ability to observe the 23rd cave and the circumstances of those three pathways. 
+
+The further she spread the range of her Eye of Truth, the greater the magic consumption was, and the heavier the burden on her body. So she decided to observe one channel after another at each fork. 
+
+“Cave number three… yes, there aren’t any mining areas at the end of it. There are… ” she spent a moment frozen in shock, “There are five branches, including one that seems to lead further downwards while also making a detour.” 
+
+“Downwards?” Lightning repeated. 
+
+“It is indeed like that,” Sylvie confirmed while taking another look. It didn’t take long until the slender downwards leading path turned around a corner and pointed straight back at the mine. When she tried to further explore along the road, her mind suddenly became flooded with a strong sense of dizziness which interrupted her contact with her magic eye, “I think it may lead to a mineral deposit.” 
+
+But this interpretation was a bit far-fetched, the North Slope Mine’s tangled and complicated cave system was clearly not something which had been artificially dug out. Furthermore, if she hadn’t been specifically looking for ore, it would be unlikely she’d have discovered any unknown veins, even if they were hidden between two channels. If not for her Eye of Truth which was able to penetrate any obstacle, it would be simply impossible to find any minerals hidden behind rocks and under piles of mud. 
+
+“No matter what, let’s immediately go and take a look,” Nightingale said, and shrugged her shoulders. 
+
+The group entered the cave behind the third gate one after another, and about a quarter of an hour later they had already arrived at the end of the passage. 
+
+There the tunnel divided itself into five like she had seen it. One among them was even so narrow that it was impossible for people to walk through and so it could only be entered by crawling. However, the strange channel Sylvie had seen before was located in the middle of the five, and its topography changed dramatically, almost forming a deep slope when compared with the place they were standing now. 
+
+“It seems as if it is going straight down,” Nightingale said and held up the torch, “I feel as if this grotto is somewhat similar to the deep cliff of the Impassable Mountain Range.” 
+
+“Let’s quickly finish the inspection, then immediately turn back,” Lucia said in fright as she instinctively grasped on to Nightingale’s arm. “I do not like it here… I constantly feel as if something is staring at us from within the cave.” 
+
+“There is nothing in the cave, except for mud and stone,” Sylvie said, even though she didn’t like this quiet and moist place, her ability still told her that 
+
+there was no danger. “The four on the left and right all contain no ore and are leading further away from the mining site.” She quickly finished the inspection of the leveled side roads, then moved her line of sight towards the front, only to immediately lose focus and release a faint, “…ah?” 
+
+“What’s going on?” Lightning asked. 
+
+“I… am unable to see the circumstances further down.” 
+
+“You cannot see it?” The little girl asked in disbelief, “Can it be that you are too tired and so your ability just don’t work?” 
+
+“No, my ability doesn’t have any problems,” Sylvie said and closed her eye, before opening it again, only to see that everything still remained dark, the same as if she had completely lost her vision. Enduring the on-coming headache, she tried to expand her field of vision further, but the results still remained the same, while the surrounding soil became clearly discernible. Only the pass in the middle was enveloped in complete darkness which was as thick as ink. “There seems to be something which obstructs my peeking.” 
+
+“You will all wait over here and don’t leave,” Nightingale ordered while simultaneously drawing her two shining silver weapons, “I will go in to explore the situation and immediately come back afterward.” 
+
+“Do not go!” Sylvie shouted, grasping her forehead in pain, “There exist only one thing that can produce such an effect. Even if you go, you will be in danger.” 
+
+“What is it?” 
+
+“God’s Stone of Retaliation,” Sylvie said through clenched teeth, “There is a God’s Stone of Retaliation underground, and it is covering that whole region!” 
+
+… 
+
+When Roland heard the news, he immediately mobilized soldiers of the First Army and led them into the North Slope Mine. 
+
+And the result of their inspection confirmed Sylvie’s guess; they discovered a large amount of God’s Stone of Retaliation at the bottom of the deep hole. 
+
+After determining that there was no danger, Roland also entered cave No. 23 with the protection of his personal guards. He wished to see for himself how the God’s Stone of Retaliation at the bottom of the mine looked like. 
+
+“Your Highness, please be careful,” Carter reminded him once more, “The exit is directly in front of us.” 
+
+“You are unable to use your magic here,” Roland said while looking back at Anna, Nightingale, and Lightning standing behind him, “Didn’t you learn it from Sylvie?” 
+
+“Even without magic, I will still be stronger than you. If you can go, I, of course, can also go,” Nightingale said disapprovingly. 
+
+“Wherever there is an adventure; I will also be there.” Lightning announced while puffing out her chest. 
+
+Anna however didn’t say anything, she merely stared straight into Roland’s eyes. Seeing the flickering flame from the torches in her clear eyes, Roland knew that regardless what he said it would prove to be useless. 
+
+“All right,” he sighed. “But you must stay by my side and don’t move too far.” 
+
+Coming to the end of the slope, Roland immediately understood the meaning of the Chief Knight’s words. 
+
+Suddenly his eyes became filled with light, and a vast and deep cavern then appeared in front of him. 
+
+Even without the aid of torches, he could still clearly see the whole cave since it was illuminated by the crystal prism like God’s Stone of Retaliation. He could see some majestic towers rising straight from the ground, with a diameter of twenty to thirty meters at the base which seemed similar to some very large neon towers. 

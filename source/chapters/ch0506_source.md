@@ -1,0 +1,101 @@
+Chapter 506: No One Could Escape 
+
+Translator: TransN Editor: TransN 
+
+In an instant, a cloud of dust and ashes sprang up from the street. As soon as the “Crack! Crack!” sounds of shooting began, the enemies stopped dead in their tracks and appeared to burst into plumes of blood. The dense hail of bullets seemed to form an invisible wall that blocked the forward motion from the drugged soldiers. 
+
+“Nicely done!” 
+
+“Die, monsters, die!” 
+
+Nail clasped his hands in excitement. Sparks flew off the enemy’s armor as they were bombarded by the heavy machine guns. Compared with revolvers, heavy machine guns were much more efficient and powerful. They were able to kill a man with just a single shot to the head or chest, and they could easily cause severe injuries to limbs as well. A revolver could barely stop someone from attacking. Best of all, there was no interval between each shot of the heavy machine guns. The target would likely be hit even if several shots missed their mark. 
+
+Strands of white smoke escaped from the muzzles of the guns and drifted into the air after the sounds of shooting died down. Unable to compete with the heavy machine guns, the crazed army retreated in a panic, leaving numerous bodies behind. Those who sustained critical injuries from the bullets were lying on the ground moaning and wailing, having completely lost their ability to fight, much less drag themselves from harm’s way. Nail caught sight of the terror in their eyes. 
+
+‘Guns in the air!” The unit leader shouted aloud. 
+
+Thinking of the comrade who was violently slashed in half right in front of him, Nail coolly raised his rifle without the slightest hesitation. 
+
+The army was finally able to march forward after the road had been cleared. 
+
+When the five commandos arrived at the palace gate, they immediately circled out a shooting field as instructed during the training, while at the same time monitored the movements on the streets. To prevent a pincer attack from the enemies, the army responsible for taking the inner city was divided into three wings. Each wing would march along one of the three main streets and serve as a flank for another. In this way, the First Army would be able to defend against enemies coming from all directions. 
+
+However, Nail noticed the real combat was far more complicated than the training. The south street was devoured by the flames, and it was almost impossible for them to pass. His own troops, on the other hand, were hindered by the crushed stones and became scattered as the battle progressed. Meanwhile, the soldiers were overwhelmed by the extent of the counterattacks they encountered, and they had completely forgotten to watch for the flag signals from Miss Lightning. A commando that should have belonged to his wing was missing, and gunshots could be heard everywhere in the Inner City. 
+
+Fortunately, they were the first wing to arrive at the gathering place. 
+
+An hour later, the other wings trickled into the palace gate one after another, slowly followed by the field artilleries. 
+
+The hot air balloon once again appeared above the palace. As the four bombs burned the garden wall and the iron gate to the ground, the final storming of the fortified castle began. 
+
+******************* 
+
+“Your Majesty, they’re already at the palace gate. Please, run for your life!” Osborne, the imperial bodyguard, urged in anxiety. “There isn’t much time left!” 
+
+Timothy silently sat at the bedside in his bedroom, completely motionless. This was exactly where his father had taken his own life many years ago. Now it appeared to be his turn. 
+
+He had usurped the power of Prince Gerald, his biggest rival, by making him a scapegoat for the death of King Wimbledon III, and he had thereby ascended the throne. Within one year after becoming King, he had unified the Eastern and Northern regions in succession, driven away Garcia, his third sister, and quickly became the most powerful man in the country. 
+
+He had thought it would be just a matter of time before he occupied the Western Region and unified the whole Kingdom of Graycastle. However, he had not expected that the situation would suddenly take a turn for the worse. The turn was so sudden and severe that he was caught fully unprepared. 
+
+First, the crazed army had failed its mission to attack and conquer Border Town. Afterwards, the unexpected explosion had further shaken his confidence. 
+
+In a matter of three days, all of his advantages were gone. 
+
+When he received the message from Redwater City, he had never thought there would be only three days to prepare. The snow in the Northern Region had yet to melt, and it was still too early to start conscription since farmers were busy with the spring plowing. He immediately sent a letter to the new Duke in the Eastern Region for help, but it was likely that the Duke would just now be receiving the letter and probably had yet to read its contents. 
+
+In the end, he was forced to fight against the enemies in haste. He had the help of many well-trained fighters including knights in King’s City, the mercenaries, the patrol team, and the guards and squires of the nobles nearby. Nevertheless, to his astonishment, the towering city wall that he had put so much faith in simply collapsed on the very first day of the battle. 
+
+“Son of a b*tch!” Timothy suddenly picked up the candelabrum on the nightstand and smashed it to the floor with all his strength. “You damn bastard… How can you ever defeat me if you haven’t colluded with the witches and surrendered to the demons?!” 
+
+“Your Majesty…” 
+
+“Yes, the demons!” There was a tinge of dryness and tremor in his furious howl. “The church is crap! They’ve promised to kill the witches, but instead they have decided to just let Roland Wimbledon go! If it isn’t the aid from witches, what else has made his firearms so much more powerful than mine? What else has enabled him to easily attack from above? I have far more laborers and alchemists, and I’m hundreds of times wealthier than he is! There’s only one possible explanation: The demons in hell are helping him!” 
+
+Two explosions went off below the palace, and the glass windows started to rattle. He could hear muted yelling outside. This was the sound of his guards’ last attempts to hold off the enemy. 
+
+“No, I can’t die!” Timothy thought resentfully. “It would be too kind of me to commit suicide now. My brother is the one that should go to hell.” 
+
+“Let’s get into the secret tunnel.” He tried to stand up, but his legs were too shaky to support his weight. The guard stepped in and grabbed his arm to steady him. 
+
+“Yes, Your Majesty.” Osborne was relieved. He carried Timothy on his back and asked the guards at the door to join them. They walked toward the hearth together. 
+
+The secret tunnel had both a trap-door and a fixed gate. Once the fixed gate was shut, the entrance of the tunnel would be blocked permanently. The underground maze was filled with God’s Stones of Retaliation and hidden traps. Due to the complexity of the tunnel’s structure, Timothy had not yet had a chance to fully explore it. It was possible that the tunnel existed even before the construction of the palace. 
+
+When the group of six arrived at a large lounge area in the tunnel, Timothy ordered that they halted and asked them to take a rest while they waited for a chance to escape. 
+
+Although the tunnel had many exits, with the farthest one leading to the outer city, it was still very risky to plunge into action in the broad daylight. 
+
+Timothy clearly remembered that Roland had a witch who could carry gunpowder to the sky. 
+
+The safest option was to wait until it was dark and quiet before exiting the tunnel. Given that the tunnel was fully protected by God’s Stones, it was impossible for witches to sneak in. 
+
+“Your Majesty, since we won’t set out until midnight, please take a nap here.” The imperial bodyguard took out a blanket from the chest and unrolled it on the ground. 
+
+Timothy lay down. His brows furrowed when he smelled the damp, musty blanket. Feeling anxious and lost, Timothy could hardly fall asleep. 
+
+Where should I go next? The Northern Region or the Eastern Region? 
+
+There were nobles who supported him in both areas, and the dukes there were newly assigned… However, would they still be obedient once they learned that King’s City had fallen? 
+
+Or… the church? 
+
+As soon as the idea of turning to the church for help crossed his mind, the thought was stuck and would not leave. Anyway, all those great nobles were just hangers-on. Even if they knew his brother was in collusion with the witches, they would still knuckle down to Roland upon threats and duress, just as the nobles in Longsong Stronghold. Yet the church… The church claimed that they would not tolerate a single witch, and they would certainly not tolerate a noble who supported a great number of them. 
+
+Although these church scoundrels were conceited and foolish, at least they were not too stupid to condone the demons and allow them to spread their power in the Kingdom of Graycastle so scrupulously. 
+
+If the church could support him, he would even be willing to sacrifice the kingdom of his father’s. 
+
+Until… Until he could send Roland Wimbledon to the guillotine and torture those damn witches to death, he would never give up! 
+
+In the dim torch light, Timothy made up his mind. 
+
+After midnight, the group of people fled King’s City via the longest passage of the tunnel. 
+
+They exited the tunnel and quietly made their way through the outskirts of town. However, they had yet to cover half a mile before the surrounding fields were suddenly lit up by hundreds of torches! 
+
+“Your Majesty, run…” Osborne’s words stopped abruptly on the tip of his tongue. 
+
+There was no need for any explanation at this moment. The enemies had apparently planned out everything long before. They launched a perfect ambush and encircled the six of them, blocking all possible exits through which they could flee for their lives. 
+
+Timothy’s heart turned cold. He knew there was no escape. 

@@ -1,0 +1,99 @@
+Chapter 298 Dream 
+
+“I see,” Roland put his hands around her, carried her by the waist and set her gently on top of the bed. This simple action was already enough to make him breathless. He opened the thin blanket, and went to lay on the bed next to Anna with her head nestled on his arm. 
+
+The next step should be… foreplay? 
+
+Roland discovered that he was much too nervous, it can’t go on like this, as someone known as an “experienced” person, I cannot make a fool out of myself in front of a little girl. Maybe I’ll be able to ease the mood with a light chat and then do the action, for example… maybe some lines from a porno? 
+
+As he was still racking his brain, Anna’s soft voice sounded in his ear: “That time in the hot air balloon when you pushed me out of the way, did you ever think about the possibility that you might die?” 
+
+Roland felt shocked; he’d never expected that she would ask him this question, “I just did it without thinking.” 
+
+“You are someone who will become the ruler of Graycastle, you are also the hope of us witches,” she whispered, “I am unworthy of you doing so much for me.” 
+
+“This isn’t a question of worth,” Roland murmured. “I cannot just stand by the side and watch indifferently as you suffer an attack. As a matter of fact, even now, after waking up and thinking about it carefully, I can tell you that in case it hadn’t happened so suddenly and if I had the time to think it over, I would still have acted in the same way.” 
+
+“There is nothing I can do to prevent you from doing it again, right?” 
+
+“Yes, there is nothing,” Roland said as he pinched her nose with his other hand. 
+
+Anna’s eyelashes fell, and after a moment of silence, she opened her mouth once more, “Can you tell me something about your past… I would like to know more about you.” 
+
+“Oh, the past,” Roland said, he took a deep breath then searched through the 4th Prince’s memories, while preparing to tell one or two entertaining anecdotes of his life in the palace. But before the words could leave his mouth, he swallowed them back down. His past wasn’t the life he had here, but the life he’d lived in another, very different world; so instead he said, “I used to live in a big city, in a tremendously big city.” 
+
+“Yes, Graycastle’s King’s City is several times larger than Border Town.” 
+
+“When I was born, I wasn’t any different from any other ordinary person, I was somewhat clever in trivial matters, but not so intelligent that I could do everything at ease. In regards to studying, I could be considered as hardworking, thus I would often receive praise from the teacher. But he didn’t know, that I was the one who had drawn the hard to erase graffiti on the classroom walls.” 
+
+“He certainly wouldn’t dare to blame you.” Anna murmured. 
+
+“Haha, that’s unlikely. It wouldn’t have been necessary for him to do anything to me, he merely needed to inform my parents,” Roland smiled, then shook his head. “At that time, they taught me to never start off leniently. 
+
+“Then, as I grew older, my teachers kept changing, from primary school teachers, to academic advisors, until I finally completed my studies having had neither good nor bad grades. Of course, compared to other people’s children, in the end, I still fell short by a bit…” 
+
+He half-closed his eyes, being able to speak about his experiences after altering them a bit and no longer concealing them, gave him a feeling of freedom he hadn’t felt in a very long time since he’d crossed over. Since his arrival, he had been playing the role of the Prince, but right now, he felt as if 
+
+he was returning to his past. As if he was only lying in a hotel room designed to fit a classic style, together with the girl he liked, making one another feel safe and warm. Thanks to this, his nervous mood also gradually relaxed. 
+
+Is perhaps now the time for the next step? 
+
+Roland turned his head slightly, only to discover that Anna had already closed her eyes, and her chest, snugly placed at his side, was calmly moving up and down, looking like a kitten which had stepped into the land of dreams. 
+
+He just stared blankly at her for a moment, but soon after he couldn’t stop himself from laughing out loud. 
+
+So it was like this… she was also tired. 
+
+Think of it, to conceal their whereabouts; the witches had looked for a small hidden place within the mountain ridge two nights ago. But they still needed to guard against any possible beast or Devil attacks during the night, which had meant that they’d almost gotten no sleep during the night. And then, the next morning, even as the sun had only just lightened up the sky, they’d already continued their race on Cloud Gazer while heading back towards Border Town. At the castle, Anna had also spent the last night in his bedroom, constantly keeping watch over him. Thus, during the last two days and nights she hadn’t even had one moment of rest, making it very easy for her tiredness to overwhelm her the moment she let herself relax. It would be a wonder if she weren’t exhausted right now. 
+
+The other side’s reason for coming this day, might be because she was too anxious to wait any longer. 
+
+Although it was a pity, Roland did not care about this opportunity passing, after all, there were still many days ahead of them. 
+
+He moved closer, kissed Anna’s eyelashes, then whispered, “Good night.” 
+
+* 
+
+When the morning light fell through the window curtains into the room, Sylvie climbed out of bed unable to suppress her yawn. 
+
+The experiences of the last days seemed just like a dream, from the discovery of the Devils to the fight in the air, and lastly their escape back to Border Town, gave her the thought, that even if they had been encircled and chased by the Church’s Army of Judges, she wouldn’t feel as tense and exhausted like now. 
+
+“Good morning,” Wendy, having changed her clothes long ago was now carrying a basin of water prepared for washing their face and rinsing their mouth. 
+
+“Good morning,” she nodded, “You got up quite early.” 
+
+“I’m old,” Wendy smiled, “So the time I need to sleep has also become less and less.” 
+
+“Oh, it is already dawn?” Nightingale said sleepily as she rubbed her eyes, “It seems I have to take a nap at noon.” 
+
+“Didn’t you sleep well last night?” 
+
+“Yes, I had many dreams.” 
+
+Sylvie curled her lips disapprovingly; she had clearly seen that the other side had stealthily went off to the third floor of the castle, moving back and forth in front of the Lord’s door for a long time. However, because of Nightingale’s unique ability, she couldn’t see what Nightingale was doing. Anyway, it had already been late by the time she’d come back. “Last night, you didn’t…” 
+
+The moment she began to speak, Nightingale suddenly turned around, staring straight at Sylvie. Her slightly narrowed eyes made her meaning self-evident – thus, the latter had immediately closed her mouth. Everyone with eyes had been able to see the strength of the number one combat witch in the Witch Alliance. The image of her swiftly moving through the sky and killing the Devils like a wraith was still vivid in her mind. If she ever came to Sleeping 
+
+Island, Sylvie feared that even Lady Ash wouldn’t be her opponent. So, when she received the silent warning, Sylvie felt that it would be better if she didn’t act too curious. 
+
+“What happened last night?” Wendy asked in wonder. 
+
+“Keke,” she said, “I heard her snore last night, it must be because of the large amount of energy she’d used up in the past few days.” 
+
+“That must be it,” Nightingale agreed while shrugging her shoulders. She took off her nightgown, revealing her well-proportioned and harmonious body, and began to put on the undergarment which had been gifted by His Highness. 
+
+That said, by now, even Wendy had fully accepted this clothing, even going so far as recommending it to her. 
+
+Sylvie had no choice but to say, His Highness Roland was indeed a very fearful man. 
+
+But when she thought of him, Sylvie’s heart was also filled with warmth. 
+
+There actually exists a noble who willingly sustain injuries for a witch. 
+
+When she had seen Roland bravely dashing forward, with no thought to his personal safety, and push Anna’s body out of harm’s way, at the bottom of her heart, she felt touched. All the witches of the Witch Alliance weren’t some tools he intended to control. But they are important people to him, even… companions. His reaction at that moment couldn’t have been a lie; he is indeed standing on the side of us witches, just like Tilly Wimbledon. 
+
+If Roland and Tilly can stand together hand in hand, and unite the strengths of both cities, they might truly be able to create a new country. A place where witches and ordinary people make no distinction between what’s their’s and what belongs to the other. 
+
+She decided to write a letter to Lady Tilly. 
+
+“Your older brother, His Highness Roland, is truly a good person.” 

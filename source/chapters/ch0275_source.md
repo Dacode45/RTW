@@ -1,0 +1,103 @@
+Chapter 275 Lucia and Nightingale 
+
+Lucia was cautious and solemn as she put three iron chunks on the floor of her bedroom before closing her eyes. She took a deep breath, and went through the experiences from her previous practice once more, then stretched out her hand and release her ability to surround the target. 
+
+This was the method of practicing that Anna had helped her come up with. Using three wrought iron ingots which had been especially melted by Anna that were made out of components that had nothing in common with each other, and all respectively containing silver, copper, lead, and some other impurities. Her task was to reconstruct them as pure substances while at the same time leaving behind the impurities and to also find the ingot that contained the highest amount of silver. 
+
+This meant that she had to control her magic output, and always needed to work on one target first. 
+
+Otherwise, it could happen that she broke the impurities further into their elements, which was what she had previously done at her home in Valencia, and was also the reason why she felt that her ability were so hard to control. Even if two pieces of paper looked the same, if they were restored to their original elements they could look very different. The fact that there was a relation between the amount of magic power she used and the effect of her abilities, was something she would never be able to comprehend by herself. Which led to the result that the components of some of the papers had been split apart several times, and ultimately turned most of the raw materials into water and gas. 
+
+After arriving in Border Town, the first lesson the other witches taught her, was that she had to practice controlling her magic. 
+
+Originally Lucia wasn’t convinced that those invisible and incomprehensible things could also be precisely be controlled. Only when Anna demonstrated how she was able to control the lengths of her black flame, was she finally able to discover how badly mistaken she had been. Not only could Anna adjust the output of her magic, and change the size and thickness of the black flame, she was able to reach a level of perfection in it each and every time. 
+
+“Elder sister, are you going to go practice again?” Bell curiously stuck her head out of the bed. “It’s just after lunch.” 
+
+Lucia’s hand trembled, and the iron ingot in her hand immediately turned into a pile of fine dust. 
+
+“I told you not to bother me when I’m using my power,” she said, turning around to knock against the top of her sister’s head, “Concentrate on reading your letters!” 
+
+“I’m unable to make sense of what I’m looking at,” Bell said fretful, “I can’t even understand half of the words’ meaning; I’m not like older sister, you can write and read.” 
+
+“That’s why it is important to read more; many words have a similar structure, so even if you haven’t seen them before, you should still be able to guess what it means. Literacy is a familiarizing process.” 
+
+“Alright,” Bell retracted her head. 
+
+Lucia focused her attention on the second piece of iron ingot, then exercised her control to slowly release her magic. She tried to imagine a thin layer of gauze covering the ingot, and wrapping it up evenly. 
+
+“Hey, I came,” the door suddenly squeaked, and the blonde woman dashed into the room. “Hey, are you practicing your ability?” 
+
+“Sister Nightingale!” Bell shouted carefreely. 
+
+The second piece of iron once again turned into a pile of fine powder. 
+
+Lucia sighed and put all the metal debris on the floor into a leather bag, feeling that it might be impossible to train today. 
+
+“Here, this is yours.” 
+
+Suddenly an ice cream with a rich aroma of milk was handed over to her. 
+
+“Thank you,” Lucia said, taking the ice cream, “But shouldn’t this only have been given out during the afternoon tea?” 
+
+Nightingale proudly patted her chest and said, “Oh, that’s true. But this is a special reward I requested from His Highness… here, you also get one.” With these words, she handed another one to Bell, which made the little girl immediately burst into laughter. 
+
+“Sister Nightingale is the best!” 
+
+This guy, as soon as she sees something delicious everything else gets thrown to the back of her mind, Lucia thought helplessly. But the moment the ice cream entered her mouth, and the sweet and rich taste of honey and milk spread through her mouth, together with the cold and refreshing feeling of the ice, further enhancing its sweetness; she also felt that if she had been in her sister’s place she would most likely also have reacted in the same way. Even after completely swallowing it, it still left a slight chill on her teeth and her lips. 
+
+No one can resist its deliciousness, especially during the hot summer. No wonder that His Highness only gives out ice cream during the weekend afternoon tea. She was afraid that this unique style of food was actually worth a lot of money, she at least had never heard of this dessert during her life in Valencia. 
+
+Thinking until here, Lucia could not help but ask, “How were you able to get if from His Highness?” 
+
+“Heh heh,” Nightingale smiled widely, “I ranked third during the exam, second only to Wendy and the Leaves, however, His Highness thought I would be unable to pass the exam at all. Since the actual situation was 
+
+worlds apart from his imagination, it was only natural that I requested a special reward from him.” 
+
+“Actually… it was like this,” she hesitated for a moment then asked, “Then, my?” 
+
+“Sixty-eight, but I don’t know your actual rank.” 
+
+“Uh, so low.” Lucia was depressed. Altogether there were 120 points, but I was only able to get a little bit more than half of them right, even though I already learned how to read and write long ago. 
+
+“That’s pretty good,” Nightingale said while patting her head. “After all, how long have you been following the lectures? It’s only natural that you would fall a bit short in regards to mathematics and nature. But if you ever come across any problem, you can come and ask me if you want.” 
+
+“Me? Can I also ask!?” Bell raised her hand. 
+
+“Of course,” Nightingale answered laughingly, “You’re welcome at any time.” 
+
+“If I pass the elementary examination, is it possible for me to choose my own work?” 
+
+“You are still too young, His Highness said, the minimum age to start to work is fourteen years of age, but right now you are only ten years old, so don’t be so anxious.” Lucia stared at her. 
+
+However, the little girl was unwilling to give up so easily, “I also want to help you share the pressure. In case you want to get married and have a baby, you will need to spend a lot of money. If the money is not enough, your days will become very painful!” 
+
+“Where did you hear this?” Lucia threw her hands in front of her face. 
+
+“Daddy said it; he was always nagging that he’d almost been unable to raise us.” 
+
+“Pfff, hahaha,” Nightingale couldn’t suppress her laughter, “If you could take a job, where would you go?” 
+
+“Chemical laboratory!” Bell raised her hand and said, “I want to become an alchemist, get the title of Sage and receive everyone’s admiration and praise!” 
+
+“This… better not,” she shook her head. “The lab is dangerous.” 
+
+“Dangerous?” The sisters asked simultaneous. 
+
+“Yeah,” Nightingale said while spreading out her hands, “Not only do they often have to deal with acids, but there are also explosions sometimes. Even the chief alchemist Kyle Sichi was unable to avoid accidents. Four of his fingers were blown away last time. I’m afraid that if it weren’t for Nana’s magic, Mr. Sichi would’ve been unable to pick up any jars or bottles for the rest of his life.” She paused, “Furthermore, it seems that His Highness is recently trying to develop a new type of gunpowder. And even he thinks that it is extremely dangerous, so he commanded that it could only be done in a separate laboratory.” 
+
+“Uh, in that case, do you have any good suggestions?” Lucia went over and wrapped Bell into her arms, determined never to let her sister go to such a dangerous place. 
+
+“Without a doubt, she should enter the City Hall and become a civil servant.” 
+
+“Civil… servant?” she repeated. 
+
+Nightingale coughed twice, “Cough cough, that was what His Highness called them when he was thinking out loud. Commonly speaking, they are called City Hall Officials. Their job is stable and safe, while their salary is on the upper level. Moreover, their prospects are also good, if you can become a department head, your rewards won’t be less than that of a witch.” 
+
+“So, it’s like this,” Lucia said thoughtfully. 
+
+“Sister Nightingale, do you like His Royal Highness?” Bell asked in curiosity, “In many of your sentences you say: ‘His Highness said’, my mother said, you’d only talk so much about someone if you liked them.” 
+
+When she heard her sister’s question, Lucia’s face became stiff. To hell with it! How can you directly ask such a question, this is simply too rude. At most we can be regarded as friends, so you cannot ask such a question of someone; even more so since that person is my highly-esteemed senior. She felt stricken by panic and hurriedly covered Bell’s mouth, but before she could even start her apologies, Nightingale already gave her a frank response. 
+
+“Yeah, I like him.” 

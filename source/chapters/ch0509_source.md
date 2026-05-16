@@ -1,0 +1,73 @@
+Chapter 509: To Become a King 
+
+Translator: TransN Editor: TransN 
+
+The dungeon of the palace was a childhood nightmare for Prince Roland. The feeling naturally came back to him as he was walking down the stone steps. 
+
+He started to search his memories and soon found the reason for this fear. 
+
+One day, Timothy invited Gerald, Garcia and little Roland to explore the basement of the basement under the palace hall together. The 12-year-old Roland had been so excited to finally get the chance to join their inner circle but had never expected what would happen next. Timothy had stolen the keys from the guards, locked Ronald into a jail cell and left with the other two kids while laughing. 
+
+Little Roland was left alone in the dark room. He had thought of the shrilling cries he occasionally heard throughout the hall. A guard had once told him that the cries were from wailing ghosts in the underground world beneath the palace. His teeth chattered with fright but he had not dared to cry out loud since he had been afraid of attracting the ghosts to him. At last, he huddled up in a corner, held his knees and pressed his face against them, sobbing uncontrollably. When Timothy, Gerald and Garcia returned to check how terrible he was, his face had been covered with his snot. 
+
+After that, Prince Roland had been too frightened to step back into the basement of the palace. 
+
+Roland now understood that the wails and shrills did not come from ghosts, but from the prisoners being questioned and tortured in the basement. The jail could not hold many prisoners which explained why little Roland had only been able to hear them every now and then. 
+
+Roland met Timothy Wimbledon in a small cell on the bottom floor of the basement. Compared with the jails in the Outer and Inner City, the place was pretty good. At least, it was dry and clean, without rats, cockroaches or stinky smells. This was the exact cell where the little Roland had been locked into and cried for an entire night. 
+
+Ironically, now Timothy swapped positions with Ronald. 
+
+Hearing unexpected noises, Timothy, who sat silently against the wall, opened his eyes and saw Roland. 
+
+This brother, that Prince Roland had feared the most in the past, looked almost the same as before. Like all the other descendants of the Wimbledon Family, he was gray-eyed and gray-haired. He resembled his father in appearance in that he wore short curly hair and had his father’s nose and handsome face. However, his long, narrow eyes made his face a little ghastly, especially in the flickering torchlight. 
+
+Prince Roland had never dared to look into his brother’s eyes before, but now, Timothy was just a helpless and defenseless stranger. 
+
+They looked at each other for a while during which nothing could be heard except the burning sounds of torches. Finally, Timothy was unable to veil his gaunt face any longer and gave up trying to overwhelm Roland with an aggressive attitude, for he found that it was useless now. The look in Timothy’s eyes changed, and somehow he seemed to be terrified. 
+
+“Who the hell are you?” Timothy broke the silence. 
+
+His dry, emotional voice reverberated in the basement, from which Roland could easily tell that his brother was scared. Compared with Tilly, Timothy had had more interactions with Prince Roland and contributed a lot to his previous annoying and fickle behaviors. He felt that it was natural for Timothy, who had known Prince Roland quite well in the past, to spot something different in Ronald now and ask that question. 
+
+“I’m Roland Wimbledon,” Ronald said as he had squatted down until his face was level with Timothy’s and looked into his eyes, “You can’t 
+
+remember me?” 
+
+“No, you’re not him,” Timothy said in a trembling voice, “He could never look at me like this. He dared not look directly into my eyes.” He heavily panted and continued, “I know… You’re the real demon! You’re not lured by demons. You’re evil incarnate, wanting to steal my kingdom!” 
+
+Roland did not even want to bother explaining anything to a dying man like Timothy. Ronald said, “So what? You think you’re better than the demons? You killed our father, framed our innocent elder brother and then executed him to keep the throne you stole. You collaborated with the church, who our father hated the most. You compelled innocent people to invade the domain of Princess Garcia and you can’t even spare your weakest and most powerless brother Prince Roland. In only one year, you conquered and destroyed so many cities, dragging the whole kingdom into chaos and making the people homeless. Even the demons wouldn’t do this!” 
+
+Timothy hurriedly refuted, “No! I didn’t kill our father. He killed himself. Just like you, he was controlled by demons!” 
+
+“Suicide?” Roland asked, frowning. 
+
+“Yes! He lay in the bed as usual and drove a dagger into his heart with a smile on his face!” Timothy answered. 
+
+“Not the witches?” Ronald questioned. 
+
+“No, he wore God’s Stone of Retaliation! Damn it…” Timothy shouted hoarsely and added in a choked voice, “It just happened without any warning and I couldn’t stop it at all!” 
+
+Roland looked back at Nightingale who slightly nodded to him. 
+
+“It must have been an attaching magic witch. Once she performed her magic power, she would not be affected by God’s Stone,” Roland thought, “And unlike witches from other organizations, the pure witches of the church could possibly find a chance to get close to the king.” Prince Ronald quickly recalled an incident that happened half a year ago when they were evacuating 
+
+refugees. A witch tricked her way into the camps to assassinate Wendy by her ability to change her appearance. Connecting that incident to what had happened to King Wimbledon III, he thought the answer was clear. 
+
+If the church was the creator of those incidents, it could also explain the reason for the Royal Decree on the Selection of Crown Prince which clearly aimed at creating wars and chaos. He still needed somebody to testify this speculation and believed he would get something out of the High Priest of the King’s City. 
+
+“But this can’t be the justification of framing Gerald and expanding the war,” Roland said in a deep voice. “You conspired with the church and used the Pills of Madness to create crazed soldiers. Have you ever thought that how many people would die of this?” 
+
+“Even if I didn’t use the pills, who could guarantee that Garcia wouldn’t use them? If they recognized me as the legitimate king at first, why would I destroy them mercilessly?” Timothy explained as he crawled to hold the railings. “And what do all these have to do with a demon like you? How the hell do you want to deal with me?” 
+
+“I want to expose your crimes, judge you and then send you to the guillotine. You’ll end up like Gerald, except that you’re proven guilty of unpardonable crimes for which even death penalty is not enough to serve the justice,” Ronald said. 
+
+“No! You can’t kill me. Demons like you can never stand in the light, since powerful deities will wipe you out. If you want the Kingdom of Graycastle, you have to rely on me.” Timothy yelled. 
+
+“Deities?” Roland grinned. “You mean the church?” 
+
+“You don’t know them! The church’s hidden strength is unfathomable. There’re incredible things father had written down in his notes and they’re the reason why he could not make up his mind to banish the church in his life!” Timothy cried out. “Pills are just one of their formidable methods. If they uncover your identity, there’ll be no escape for you!” 
+
+“No, Timothy Wimbledon. I know much more than you think I do and I’ve got a clear idea of the road ahead. It’s a hard road and you don’t have the ability to lead the people to a bright future,” Roland said slowly, “Your life must end here for the crimes you committed. But, relax, you aren’t the only one who is going to hell.” 
+
+With those words, Ronald stood up and walked out of the jail, leaving Timothy to cry alone without even turning his head. 

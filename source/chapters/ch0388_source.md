@@ -1,0 +1,85 @@
+Chapter 388: The Sigil of God’s Will 
+
+Translator: Meh/TransN Editor: – – 
+
+These words confirmed Roland’s guess, which was that the God’s Stone of Retaliation did not affect magic power, but witches’ abilities. 
+
+“Besides the Chaos Beast, did the Quest Society find any other ways to produce Magic Stones?” 
+
+Agatha shook her head. “It’s easier said than done. The Union once had a witch who could turn God’s Stones of Retaliation into regular stones, but all she did was to remove the magic power—it wasn’t nearly enough to even produce the simplest Stones of Light.” She turned to Sylvie. “You can see the form of magic power, so you should also be able to see the real forms of these crystals.” 
+
+“It’s a ball of faint… fog,” Sylvie said with an unsure tone. 
+
+“This is one of the ways magic power gathers.” Agatha nodded. “The Quest Society examined and recorded almost 10,000 witches and Magic Stones, and they found that most unevolved magic power came in the form of fog, cyclones, blown sand, light balls and flames. They might look similar, but each had an infinite amount of minute differences, which was why we believed there were no two identical magic powers. As for magic powers that were condensed after the High Awakening, their shapes differed even more.” 
+
+“Its light is dimming,” Tilly suddenly pointed to the Stone of Light in Roland’s hand and said. 
+
+“That’s because I only channeled a small amount of magic power,” Agatha explained. 
+
+“But I once saw a Stone of Light in the Fjord ruins that never dimmed,” she said confusedly. “If those underwater ruins belonged to you, then can you also make a Stone of Light shine for 400 years?” 
+
+“Underwater ruins?” Agatha was shocked. “Did some Union members go to the Swirling Sea?” She shook her head and dismissed this thought. “It’s possible to make a Stone of Light shine forever, but it requires more than 10 witches.” 
+
+“More than 10… ” Anna mumbled. “Is it transferring magic power?” 
+
+“Yes. Some witches can refill others’ magic power or directly exchange the magic power collected from two people. This way, a witch can channel much more power than the amount she has in her own body and cause a Magic Stone to act continuously.” Agatha returned the Stone of Light to its original brightness. “However, this method doesn’t work on every kind of Magic Stone. Usually, only the Stones of Mist with the simplest form of magic power can be used this way, such as Stones of Light or Echo Stones, which aren’t much help in battle.” 
+
+“But they would be very useful in the castle,” Roland said excitedly, staring at the box of Stones of Light. 
+
+In a time before the Electrical Age, these things would be perfect lighting, and he was sick of weak and flickering candlelight. Candles were alright in the winter, but working in the office in the summer was absolute torture, not to mention it’s horrible for his eyesight. Now, these magic stones could brighten the entire castle, even at night. 
+
+“They would?” Agatha asked disapprovingly. “I think they would be more useful in the laboratories, especially if we want to keep producing liquid oxygen at night, because open flames are too dangerous.” 
+
+“Um… Is she asking to work overtime in addition to the eight hours during the day?” Roland tilted his head. “Ahem, let’s take a look at the Magic Stones in the other boxes first.” 
+
+A quick check showed that besides Stones of Light of various shapes and brightness, there were also some random Stones. According to the Ice Witch, although these were all priceless goods, they were still of the lowest tier of Magic Stones. For example, there were Stones of Vigilance that sent out signals and Stones of Pathfinding that located things. “I wasn’t in charge of everything in the Holy City’s stone tower, and I was basically estranged from the Quest Society at the time, so all the goods I transported were unimportant.” 
+
+“What about these books?” Roland pointed to the black books in the other boxes. “Are these all lab records?” 
+
+“Some of these are the General Principles.” Agatha blushed. “I wanted to save a copy as a promotion guide to the new witches who had to reclaim wastelands.” 
+
+Why was this embarrassing? Roland glanced at her curiously and continued to sift through the remaining boxes. 
+
+“This wooden box… is a little strange.” Sylvie’s words caused his hands to tremble and recoil immediately. 
+
+“Is there a booby trap?” 
+
+“No… there’s an interlayer,” she said, examining the box. “It’s at the very bottom. I didn’t notice it at first because I thought it was only a regular partition.” 
+
+Roland took out all the books from the box, exposing the thick bottom. Anna carefully cut open the wooden plank and retrieved a cast iron box. 
+
+“What’s it?” Roland curiously opened the lid and saw a thick metal plate encrusted with four colorful crystals. Its design revealed that it was obviously very unique. “Perhaps the Quest Society did leave you with some valuable objects after all.” 
+
+Agatha gasped. “This… can’t be possible!” 
+
+Her dramatic reaction confused the other four people, and Roland immediately put the metal plate back into the box. “What’s wrong?” 
+
+“This is the Sigil of God’s Will!” the Ice Witch said in disbelief. “How did Kagar manage to get his hands on this?” She rechecked the box a couple of times. “Did he steal it from the other witches in the Quest Society?” 
+
+“Maybe his fleet was attacked and someone entrusted him with it,” Roland guess randomly. “It’s been 400 years, and it doesn’t matter who the box belonged to… What on earth is the Sigil of God’s Will?” 
+
+“Some Magic Stones, when pieced together, can have extra abilities, alter their magic powers’ properties, or increase their effects—this was the most important topic of research for the Quest Society.” Agatha carefully scooped up the silver plate. “Magic Stones that are pieced together are called Sigils, and the Sigil of God’s Will is the most powerful kind. Its Magic Stones all come from Senior Demons, and there are only three or four of its kind in all of Taquila.” 
+
+Roland couldn’t help but whistle in awe. “How powerful is it?” 
+
+“It can wipe out your entire castle.” 
+
+The prince choked in shock. 
+
+“Don’t worry, it also requires an alarming amount of magic power—the more Magic Stones are on the Sigil, the harder it is to activate.” Agatha closed her eyes, and two of the Magic Stones on the metal plate began to glow, while the third remained dull. After a while, she seemed to be exhausted and let go of the plate, panting. “The only witches who could use the Sigil of God’s Will were the Union’s two Chiefs.” 
+
+“You mean… Transcendents?” 
+
+Agatha nodded. 
+
+Roland thought for a while and said, “Let Anna have a try.” 
+
+“That’s useless,” Agatha said, shaking her head. “Extraordinaries use their magic power differently from ordinary witches, basically practicing all the time. Once they evolve, the amount of magic power in their bodies will greatly surpass… What?!” 
+
+Everyone saw that as soon as Anna touched the Sigil, the four Magic Stones immediately began lighting up one by one, and the edges of the metal plate began streaming with a gold light that looked like lightning. The gold light became more and more intense, and the Sigil shone like the rising sun! 
+
+“Let go of it right now!” Agatha screamed. 
+
+The light immediately vanished as if it had never even appeared. Anna let out a gasp and gently placed the Sigil back into the iron box. “It does use up a lot of magic power, so I can probably only use it twice.” 
+
+The basement was dead silent. 

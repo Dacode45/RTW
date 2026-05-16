@@ -1,0 +1,79 @@
+Chapter 402: Organizational Structure 
+
+Translator: TransN Editor: TransN 
+
+At the beginning of the second month of winter, Barov walked into Roland’s office, carrying a stack of books under his arms. 
+
+As he walked up to Roland’s table, a huge color painting on the table caught his attention. “Is this… a map of the entire Western Region?” 
+
+“Not just the Western Region,” Roland said, laughing. “It also includes a portion of the Barbarian Land and the Misty Forest, especially this space over here.” He pointed to an area in the northern part of the Impassable Mountain Range—it was the Fertile Plains that Agatha had talked about. “At present, the area that we’ve already discovered is equivalent to three Western Regions. If we manage to cultivate the land of this large space, we can resettle hundreds of thousands of people.” 
+
+In order to eliminate the threat that came from Devil’s Town, he had sent Lightning and Maggie to comb through the area and draw up a map. Now that Maggie could carry Soraya while she did the drawing, more accurate maps could be drawn. Although the disappearance of the Devil’s camp was still a mystery, the good news was that there was no sign of another enemy camp within 200 kilometers of Border Town. 
+
+“In the Barbarian Land, there aren’t only demonic beasts, but also… scary enemies, like you said.” Barov’s words came with a hint of hesitation. “Won’t it be too dangerous to cultivate the land towards the northwest?” 
+
+“By that time, the First Army will most likely be equipped with the power to fight demons.” Roland slowly swiveled his finger around the plains on the map. “It won’t be safe anywhere if we’re unable to defeat these enemies.” 
+
+Ever since demon scouts were spotted in the Misty Forest, he knew that he could not conceal this information for long. In order to prevent the panic that could be brought about by a sudden revelation, he first disclosed the existence of demons to his top brass. Judging from the current situation, the reaction of the people were fairly normal. Of course, he had slightly downplayed the strength of the demons by asserting that they were of the same ilk as demonic hybrid beasts, while he did not divulge the history of the two Battles of Divine Will. 
+
+Roland knew that his kingdom could not remain on the mainland border forever if it wanted to be on par with the Four Kingdoms. Only the Barbarian Land… or should we say, the Fertile Plains, was a land area that was worthy of his governance. In fact, the area that had been explored was only a tiny fraction of the entire plains. One could imagine the vast amount of land that humans occupied during the second Battle of Divine Will. 
+
+He retracted his finger, then rolled up the map and placed it to one side. “Do you have any news to report?” 
+
+“Yes, Your Highness.” Barov nodded and then spread the books that were under his arms in front of the prince. “I’ve drawn up a plan for the City Hall’s expansion according to your demands.” 
+
+“Oh? I’ll have a look.” 
+
+In order to cope with the rapid growth of territory after the establishment of the city, Roland utilized a futuristic classification of his government’s functional departments, and thus set a new framework for management organizations of his time. Overall, the upper sector of the government was divided into four main branches, namely the City Hall, the military, the Security Bureau and the Witch Union. 
+
+Under the expansion plan, the new City Hall would assume the role of the cabinet or State Department, and would be the core institution of the entire territory. In time, the personnel would increase to approximately 500 people. Its six departments would be finance, foreign affairs, education, agriculture, industry and law, while new departments could be added at any time according to demand. Moreover, if (or when) the Kingdom of Graycastle was 
+
+reunified, all of the other cities could follow this template and set up corresponding lower sector institutions, and together they would be managed by the City Hall. 
+
+In addition to its battle staff, the military also had independent production and medical departments that served as logistical safeguards. Every military division had a commander-in-chief who was responsible for specific combat matters, but the supreme authority of the military rested with Roland himself. 
+
+The Security Bureau was a secret organization which hid in the dark. Its funds were not allocated by the City Hall, while its members were also not recorded in any dossier. Its primary functions were to monitor and ensure the security within the territory and handle issues of official corruption. 
+
+Lastly, the Witch Union… Roland had thought hard about this organization but eventually decided that it would be a separate department, instead of sorting the witches into the other departments. 
+
+This was because, for some of the witches, their abilities would increase dramatically after evolution, and then they would be able to work across multiple departments. For example, Anna and Soraya could both play important roles in industry, agriculture, military, and education. 
+
+Another reason was that there would be times when a witch would not be assigned any work, and therefore, classifying them together could effectively avoid dampening their enthusiasm. This was a point that Scroll and Wendy had brought up to him. 
+
+Roland hoped that in the future, the Witch Union would operate on its own, which included handling its membership, inspection and work allocation. 
+
+“Are you really able to hire so many literate people?” After he finished reading the City Hall Director’s proposal, Roland raised his head and asked. A 500-person institution was considered enormous in this era. Plus, the requirement that every employee had to be literate would almost certainly be impossible to fulfil in other territories. Although the royal city of each kingdom might have sufficient literate people, these were in large part nobles who were too proud and arrogant to be willing to serve as apprentices. 
+
+“Add in the fresh batch of graduates and there shouldn’t be a problem,” Barov replied. “According to the feedback from the recruitment notices, jobs in the City Hall are the most popular.” 
+
+“It seems that being a civil servant is popular everywhere… ” Roland arced his lips upwards uncontrollably. “In that case, go ahead and recruit people according to this scheme. The next and final task is to formulate laws.” 
+
+“Pass me the principal article that you mentioned the last time, and I’ll have my apprentices complete the rest as fast as possible,” the City Hall Director said in high spirits. 
+
+“It’s called Basic Laws,” Roland said and laughed. It appeared that enthusiastic “model workers” were not only confined to witches—this was a good sign for a new regime. 
+
+“Another thing, Your Highness,” Barov said. “If the City Hall is expanded according to the plan, the current building may not be able to accommodate so many people. Can… ” 
+
+“You want to build a new City Hall?” The prince nodded in agreement. “For sure. I’ll arrange Karl to see to it.” In the eyes of the citizens, this was the face of the lord. While they rarely had the chance to enter the castle, they would often settle matters in the City Hall. Thus, a certain degree of splendor and style was necessary. If it was austere and unembellished, the people’s confidence in him might erode. 
+
+After Barov took his leave, Roland called his guards to bring in Prius Dessau, the knight from the Elk Family. 
+
+Roland had not seen him for half a year. The knight was visibly fatter and his face fuller than usual, while his cheeks even glowed a bright red. Life had certainly been good. 
+
+“Recently, there’s been more eggs and poultry in the Convenience Market. This’s all your credit.” Roland smiled. “Your way of raising chickens and ducks must be great.” 
+
+“Hehe…” Prius laughed, somewhat embarrassed. “Without your support from the start, I couldn’t have done any of this.” 
+
+Farming was not a smooth journey. When Prius first started, the fowl plague even appeared and caused the death of many chickens. Roland simply thought of it as a good lesson and did not give up on him. Instead, the prince continued to buy baby chicks from the Stronghold and passed them to him for raising. Presently, he had become an indispensable talent of the town’s community. 
+
+“I plan to recruit you in the City Hall under the agriculture department. Do you agree?” 
+
+“Your Highness, you… don’t want me to continue raising chickens and ducks?” Prius was slightly surprised. 
+
+“Of course not. You’ve been doing a great job, and therefore, I hope that you can bring more people into this business.” Roland said encouragingly, “Soon, I plan to expand the scale of farming by more than ten times. Then, you and your family won’t be able to handle it alone. After you’re recruited in the City Hall, you can pass on your experience to more people and teach them how to farm.” 
+
+Given Lily’s ability to eliminate bacteria and diseases, the most thorny problems of animal husbandry ceased to exist. Apart from chickens and ducks, large livestock such as cows and lambs were also within the prince’s expansion plans. 
+
+“This is undoubtedly a noble job that’s no less honorable than knighthood.” The prince paused for a moment and then continued speaking. “There’ll be a day when eggs and poultry will be served on the dining tables of every household in the Western Region. And when people see these delicious foods, they’ll all remember your name. What do you think?” 
+
+“I’m… willing to serve you.” Prius Dessau clenched his fists and bowed respectfully. 

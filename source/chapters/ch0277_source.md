@@ -1,0 +1,99 @@
+Chapter 277 Theater Conflict 
+
+Longsong Stronghold, theater performance hall. 
+
+The curtain fell to the sound of the audience’s endless whistles and cheers. May wiped the sweat from her forehead and saw Irene’s gaze, full of excitement and expectation, lingering on herself; she gave two slight nods in response. 
+
+This acknowledgment made Irene cheer out loud, the moment the curtain hit the ground, she could no longer stop herself from rushing over, and forcefully wrapped May into a hug. 
+
+“Hahaha, I really can play it!” 
+
+So troublesome, May gave her a supercilious look and pushed her away, “At last you have made some progress and can now take the stage independently.” 
+
+“Miss may, then… what’s with me?” Rosia, another actor that was playing a witch cautiously asked her. 
+
+“You still have a long way to go,” she answered without hesitation, “Your expression is still stiff, your movements are sluggish, you also didn’t put any feelings into your lines. During the second act you made two mistakes, and during the fourth act you’d positioned yourself incorrectly, which is a typical mistake if you don’t memorize the script.” 
+
+“Haha, Miss May is indeed really strict,” Gheit awkwardly scratched the back of his head, “However, the audience’s response seems to be very good, if you listen, you can hear that the applause has yet to subside.” 
+
+“Most of these people are civilians who have never been to the theater, so seeing a play such as this is still a new thing for them,” May interjected 
+
+bluntly. “If this had been a regular show, those several mistakes would have been sufficient for the nobility to all let out hissing sounds.” She paused, “If you want to go down the actor’s road, you are never allowed to be satisfied with temporary successes, only by continually improving yourself will you be able to gain a firm foothold on the stage.” 
+
+The surrounding people all simultaneously lowered their heads and said, “Yes, thank you for your guidance!” 
+
+May sighed, here we go again, I definitely cannot be considered as the drama tutor of this group of people. But in the end, she was too lazy to care about such a trivial matter and merely said, “All right, everyone carry on with your hard work. The ‘Witch Diary’ will be shown at least until September, so there are still many plays during which we can develop further. This is a rare opportunity; no one should miss out on it.” 
+
+“Yes!” 
+
+One month ago May had received a notice from the Ministry of Education, the members of the theater team were instructed to go to Longsong Stronghold and perform. These so-called members were those inferior performers she had met at the start of her journey to Border Town, and Irene Eltek. 
+
+Perhaps it was because His Highness the Prince and acting Duke Petrov had reached an agreement with the theater to let them free its schedule, so that the crew could perform the “Witch Diary” trilogy. And so, with this group of amateur performers, together with the newly added actors who also couldn’t be considered as well-known actors, were now openly performing on the stronghold theater’s biggest stage. At normal times, they might not even be selected as a substitute for a supporting role. Now however, not only were they able to play the role of an important character on stage, but they could also perform hand in hand with the Star of the West, which made a lot of people lament about the impermanence of destiny. 
+
+When May returned to the backstage area, she couldn’t refrain from puckering her brows. 
+
+There at the lounge, she saw a group of people disturbing everyone with their noise, seemingly trying to start a dispute. The moment they saw May appear, more than a dozen followed the leadership of one woman as they stepped forward and began to surround her. 
+
+These people were all actors of the theater. May also recognized the woman leading them, she was called Bella Dean and was a famous actor that belonged to a different group. Some nobles even went so far as to say that she was May’s biggest competitor for the position as the Star of the West, but in fact, whether it was her acting or fame, she had never been able to pressure May. 
+
+“Guess who I’m finally able to see?” Bella bypassed May and slowly started to walk over towards Irene one step at a time, “A group of inferior actors who’ve sneakily returned from the countryside.” 
+
+“What did you say?” Irene asked with a bewildered face, Gheit, Rosia, and the other’s faces all turned stiff and they couldn’t stop themselves from taking two steps back. 
+
+“Pfff,” Bella covered her mouth and said, “She doesn’t even know her own identity and status.” These words aroused a burst of laughter from the group, “Then let me say it directly to you, a big city such as Longsong Stronghold isn’t a place where people like you should come to perform. Moreover, the stronghold theater also doesn’t welcome such a vulgar and third-rate performance. What ‘witch diary’? it’s just a few stray dogs all howling in grief. Who could ever be interested in seeing this kind of drama that’s bad enough to spoil one’s appetite? The earlier you get lost and return to Border Town, the better.” 
+
+“You,” Irene suddenly turned red, “What do you call a third-rate performance? didn’t you hear the applause of the audience?” 
+
+“Ha, audience?” Bella sneered sarcastically, “You call those people who work in the mud, and come in contact with hoes and furnaces every day, an audience? Don’t make me lose a tooth from laughing! Just catch some monkeys and make them run in circles and they will also be cheering loudly! 
+
+If it hadn’t been for the free tickets, would they ever have the spare money to come and see you perform?” 
+
+“I…” Irene opened her mouth but didn’t know how to properly refute. 
+
+“The theater already has to deal with a continuous fall in revenue since you came to perform on the big stage every Wednesday. Furthermore, even we are being affected, as long as you and your drama keep on playing here, the nobility will not come!” Bella raised her voice, “Who would be willing to sit on greasy and dirty chairs covered with mud bits? I in turn, also do not want to come into a messy theater that your group of country bumpkins have left behind.” 
+
+The other side has apparently came to pick a quarrel, May thought, with the sudden appearance of Border Town’s performers, many people from the theater crowd have indeed lost their chance to appear, but by no means is Bella Dean suffering under this effect. According to the news I’ve received from some acquaintances, after my departure from Longsong Stronghold, the theater deliberately tried turning her into the new Star of the West, so they naturally cannot cancel the drama she’s starring in. 
+
+Looking at Bella’s action from this point of view, her purpose was clearly evident. Even though it seems she was scolding Irene and the others, in reality, her attack is directed against me. If these people shrink back, I alone cannot perform the Witch Diary and will have no other option than to go back to Border Town in shame. In this way, by defeating them, it is equal to defeating me. Moreover, by recovering an opportunity for the other actors to play, her prestige is also bound to rise; in that way establishing her place as the new generation’s Star of the West. 
+
+But I will never become the stepping stone for someone else! 
+
+“The theater’s income is falling, are you serious?” May turned and said thoughtlessly, “How can you come up with such a naive judgment as to think that the theater is unable to make ends meet just because of giving away free ticket. The theater manager has undoubtedly reached an agreement with His Royal Highness and Petrov, concluding that the loss of revenue would naturally be paid for by Border Town’s City Hall. This is a business 
+
+contract, not someone playing house. You really should use your brain rather than rely on your imagination to start shouting and screaming.” 
+
+“You… are only talking nonsense!” 
+
+“In the end, the decrease of the income is merely because of you and this group of inferior actors with no status.” May showed a faint smile, “There was one time when I was performing at King’s City Grand Theater, which is an open-air theater. It just so happens that on the day of the show it was raining. However, the nobles still came and filled even the last seat. So, you’re saying it is because of the commoners that the nobility is unwilling to watch your show? No, it’s simply that they do not enjoy coming over to watch a play that is performed by a group of monkeys.” 
+
+“…” The scene fell into a strange silence, not only did no one step forward to blame them further, they weren’t even trying to find an excuse. 
+
+“Finally, you said that the ‘Witch Diary’ is of inferior quality and vulgar; a story about stray dogs struggling and howling in grief?” The corners of May’s mouth rose, her voice however, was bone chillingly cold, “I may have forgotten to tell you, but it was the Prince who wrote the story for the script. Do you want to tell me that His Highness ideas are low-grade and vulgar? Insulting the royal family is a crime punishable by cutting off the tongue; are you still going to stick with your point of view now?” She looked at the crowd standing behind Bella, “Or do any of you want to give it a try?” 
+
+One after another, the more than a dozen actors under her gaze backed away. 
+
+“Enough!” Bella clenched her teeth and hissed, “Since you’ve already left for Border Town, you should never have come back! May, do you think I don’t know! The actual reason why you went to that broken place was not to see that idiot Irene, but Morning Light.” 
+
+“Slap!“ 
+
+Bella’s voice stopped with a grunt; a bright red hand print was glowing on her left cheek. She touched her face, not daring to believe what had happened just now, “Y-you actually dare to str-strike…” 
+
+Fuu~ in the end, she had acted on impulse, so she took a deep breath and tried to calm herself. If it went on like this, it could cause some trouble for her later on. 
+
+Sure enough, two actors behind Bella stepped forward, “Miss May, you are going to far.” 
+
+“Do you know the importance of appearance to an actress; I think that at the very least you need to apologize to her.” 
+
+Apologize? Isn’t that the same as saying I was the one in the wrong? May couldn’t help but to grimly start laughing from the bottom of her heart, the urge to act impulsively returned, but the thought to apologize never even surfaced. 
+
+With a calm and collected expression, she sized up the two men with their oily hair and powdered faces, and could not help but think of what Carter Lannis had once told her. 
+
+“Do not look at a man’s strength, they also have many weaknesses, attacks towards their eyes or throat will make them instantly lose their resistance, of course… there is also the place between their legs. As long as you act decisively and quickly it is not impossible for you to knock down a man much stronger than you.” 
+
+Although she wasn’t sure how far this could be applied to the current situation, she had already placed her feet into an attacking position, just waiting for the two men to come closer… 
+
+However, at this moment, the lounge door was brutally pushed open, an armor wearing knight came in followed by several soldiers with pikes in their hands. As they entered the room, they immediately pointed the pikes at the crowd. 
+
+“I heard that somebody had slandered His Royal Highness, and that a whole crew is conspiring against him.” 
+
+May couldn’t help but stare blankly, thinking that what she had seen had to be an illusion, she forced herself to blink. However, nothing changed, the man standing in front of her showing her a secret smile was indeed the knight Carter Lannis. 

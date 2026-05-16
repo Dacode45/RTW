@@ -1,0 +1,79 @@
+Chapter 273 God’s Stone of Retaliation 
+
+Roland roughly estimated the size of the underground cave, the area below was almost the size of a football field, and was surrounded by steep mountain walls. The road connecting it with the other cave started in the middle of one of those mountain walls, and next to the tunnel entrance he could see a narrow stone staircase, which extended straight towards the bottom. 
+
+“I guess this staircase wasn’t cut out by you,” Roland said while he squatted down and brought his torch near the ground. In the torchlight, he could clearly see marks carved out by knives and axes, with piles of dust and rock bits that were within the notches. 
+
+“Of course not, Your Highness. At the time we discovered the cave, the stone steps had already existed.” Carter said and shrugged his shoulders, “I guess they must have already been here for decades.” 
+
+“Or since hundreds of years,” Anna suddenly spoke. 
+
+“I think so too,” Lightning nodded in agreement, “It is only seventy years since Border Town has been established, it is unlikely for the stone staircase to be related to the locals here or even the kingdom.” 
+
+“There were already some people living in the Western Territory several hundred of years ago?” Carter questioned, “Graycastle hadn’t even existed back then.” 
+
+Roland patted the knight’s shoulder, “Four hundred and fifty years ago, there existed a group of people who have already been forgotten by history.” Then he lifted the torch and said, “Let’s go down and take a look.” 
+
+Twenty to thirty soldiers of the First Army were already standing at the center of the cave, so he took the knight and the witches then went next to one 
+
+of the God’s Punishment Stones without delay. Only when he stood at the edge of this stone pillar was he finally able to realize how huge this actually was. Even by extending his arms as far as he could, he still wasn’t able to surround even a tenth of it. 
+
+He lifted his head and looked at the top, the tallest pillar made out of God’s Stone of Retaliation already came close to thirty meters, which was almost equivalent to the height of an eight or nine story building, and was shining in an ominous purple light. 
+
+In theory, stones could emit light either by having a radioactive material, or by containing some fluorescent components. But, the rays of light emitted by the God’s Stone of Retaliation obviously had nothing to do with any of these possibilities. The light from the former was from the ionization in the air as the elements decayed. Furthermore, the shorter the half-life, the greater the brightness would be. But according to these very words and taking the stones’ brightness into account, the soldiers who had already entered the cave for several minutes, would have died from ionization radiation by now. While the latter possibility would need an external light to shine on it, but there was no light source here at the bottom of the mine, which could support it enough to send out the light continuously. 
+
+Roland also noted that although the God’s Stone of Retaliation had a crystal’s commonly seen prism shape, its surface didn’t have the veined pattern that came from crystals, but was instead as smooth as glass. 
+
+“The Church sells a thumb sized piece of a God’s Stone of Retaliation for several gold royals. However, a piece of this magnitude… it is something impossible to acquire even after emptying the vaults of the entire Four Kingdoms.” Carter couldn’t stop himself from lamenting. 
+
+“You want to give it to the nobles to slaughter witches?” Nightingale asked with a fierce glare. 
+
+“Uh, this isn’t what I meant,” The Chief Knight answered quickly, while unconsciously moving out from her line of sight. 
+
+“It is the first time that I have seen God’s Stone of Retaliation shine in these colors, shouldn’t they be transparent white—” Lightning curiously looked at the pillars, “In case you take them back with you, won’t it be unnecessary to use a candle in the evening?” 
+
+“I’d rather bring a candle into an already stuffy room filled with dozens of candles, than use this for light,” Nightingale murmured while placing both her hands on her chest, “For us witches, they are a prison cage, the stocks and chains that are held by the Church! If the world didn’t have these damnable stones, it would be better off.” 
+
+“Oh, Sister Nightingale, you couldn’t read a sentence in the evening anyway…” The little girl licked her lips, picked up a stone from the ground and looked at Roland. “Can I take a piece of it back with me as my spoils of adventure?” 
+
+Roland nodded, “If you don’t hate these kind of things.” 
+
+She held a stone and raised her arm into the air and swung it towards the stone pillar. It smashed against the edge of the prism, only to hear a “ting” as the stone in her hand splintered while the prism showed not even the slightest scar. 
+
+Seeing this, Carter shouted in shock, “What’s going on?… Shouldn’t the God’s Stone of Retaliation be fragile?” 
+
+“Perhaps it is because this chunk is shining differently,” Lightning threw the remaining stone chips in her hand away and took a dagger out of her waist purse. However, even after a good deal of tossing around the prism, with all kinds of scraping and cutting, it was still to no avail. 
+
+Feeling that something was wrong, Roland looked at Nightingale and said, “You try it.” 
+
+The latter merely nodded, took out her revolver, aimed directly at the prism then pulled the trigger. Immediately followed by an enormous echo splitting the silence in the cave, and the birth of some sparks at the impact area of the God’s Stone of Retaliation. After the smoke cleared, the group walked over 
+
+to the stone, merely to discover that the bullet wasn’t even able to do anything more than leaving a small stain on the God’s Stone of Retaliation’s surface. 
+
+This suggested that the durability of these intensely shining stones already exceed that of homogenized steel plates. 
+
+“Even the gun is useless?” Carter asked with a frown, “In the end, how is the Church able to cut a piece off and sell it?” 
+
+No one could answer this question, causing everyone’s expression to cloud up. 
+
+Even Roland had been able to use his own force to break the God’s Stone of Retaliation, like that time he’d broken the necklace around Anna’s neck for instances. Just two or three pulls from him had been enough to turn the pure and limpid stone into a pile of white dust. 
+
+But at this moment, Anna who had been silent until now, suddenly opened her mouth, “Your Highness, do you still remember the ‘treasure map’ that Ferlin Eltek had drawn?” 
+
+“Treasure map?” Roland asked confused. He could vaguely remember that there was a triangle occupying more than half of the drawing. One of the three edges pointed at the Holy City Taqila, one at the stone tower in the Concealing Forest and one at the foot of the Northern Slope Mountain… hold on, at the foot of the Northern Slope Mountain? Suddenly a lightning spark flashed through his brain, “Don’t tell me…” 
+
+“I don’t think it was pointing at the foot of the Northern Slope Montain, rather it was pointing here,” Anna said slowly, “This is a place which contained a lot of God’s Stone of Retaliation underground. 
+
+… 
+
+Even after a careful search, besides a large number of indestructible God’s Stone of Retaliation, they hadn’t been able to discover anything else that was of value within the cave. 
+
+Not to mention remains of ancient books, there weren’t even chiseling tools used for the stone staircase left behind, which was very strange. According to the current level of technology, if they wanted to chisel out a staircase in such a steep cliff, it absolutely would be a tremendous and arduous undertaking. Things such as accidentally falling or losing tools should have been frequent occurrences. But for the current scene, besides the stones, and even more stones, it seemed as if the cave had been thoroughly cleaned before they’d left. 
+
+When Roland returned to his office, he immediately called for Scroll, and had her reproduce the Knight’s drawing on top of her ‘Book of Changes’. 
+
+Similar to the pattern in his memory, the southernmost point was indeed located at the foot of the Northern Slope Mountain. 
+
+If Anna’s guess is right, can it be a map left behind by the Church, contains new veins of God’s Punishment Stones? However, why would they spend all that time and effort to dig out the stairway to the bottom only to abandon it afterward? If the Church had already built a church in Border Town four hundred and fifty years ago, I am afraid that the current Border Town would look completely different from now. In accordance with the God’s Stone of Retaliation selling price and its usage, it is unlikely that they would willingly give up the natural resources in this mine. 
+
+Nowadays the Holy City of Taqila had already become a forbidden region, that was fully out of reach. Perhaps the only remaining possibility for finding the answer lies hidden within the stone tower… or perhaps it will remain unknown forever. 

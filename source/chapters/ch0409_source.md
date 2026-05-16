@@ -1,0 +1,73 @@
+Chapter 409: A Reliable Ally 
+
+Translator: TransN Editor: TransN 
+
+“You’ve come to the right man,” Hood smiled and said in a raspy voice that made it hard to tell his age. “Even though I live in the outer city, I happened to be near the palace on the day of the incident, and as soon as I heard the crash, I ran to the palace gate. You have no idea how terrifying the crash was, because it sounded like lightning hitting the earth. All the surrounding windows, whether paper or glass, were shattered by an invisible force, and some people were even scared to death by the sudden sound… ” 
+
+Every Rat claimed to be nearby and to have witnessed everything, but each person’s story was different from the other. “Okay, no need to ramble on about unimportant things. How did it happen?” Otto Luoxi interrupted and asked. “Was this incident really related to the Fourth Prince… Roland Wimbledon?” 
+
+Hood cleared his throat and stretched out his right hand. “I can answer that, but… ” 
+
+“You need the thing measuring all things on earth, right?” Otto opened his wallet. “How much?” 
+
+The so-called “thing measuring all things on earth” was nothing more than a gold royal. Only uncultured people like Rats would use such an obvious code word or phrase to appear mysterious. 
+
+The Rat stuck up two fingers. 
+
+Otto took out two gold royals and placed them in Hood’s hand. “This is not a small fee, so I hope your information lives up to it.” 
+
+“Of course. The reputation of Skeleton Fingers rests upon this.” The Rat smiled greedily and pocketed the gold royals. 
+
+“A Rat’s reputation is as ridiculous as a ruler’s mercy.” Otto sniffed. “Go ahead.” 
+
+“I’ll start by answering your first question.” After his payment, Hood’s posture was much more relaxed. He sipped his ale, leaned back in his chair, and pointed towards the ceiling. “Thunder comes from the sky.” 
+
+“What do you mean?” Otto frowned. 
+
+“Didn’t you want to know what caused the crash?” the Rat whispered. “All thunder comes from the sky, and this was no exception. I saw it with my own eyes. Before the crash, a white rock floated into the palace, and then the incident happened.” 
+
+“Nonsense! You mean to tell me that a huge rock fell from the sky and smashed the palace into pieces?” 
+
+“Hehe, everything I said is true, or else Skeleton Fingers wouldn’t assign me this task. If you think I’m lying, you can leave right now.” Hood shrugged. “But you won’t get your fee back.” 
+
+“… Keep going.” Otto tried to repress his annoyance. 
+
+“The rock entered the palace only seconds after it appeared, but I could clearly tell that it wasn’t that big or fast and didn’t like something that could destroy the Hall of Sky Dome, which is why I said it ‘floated’. Also, when the crash and smoke appeared, I saw a menacing flash of fire that definitely wasn’t caused by the collision,” Hood said, smacking his lips. “I mean, His Highness Timothy’s search afterwards proved this very point—he closed off and cleared the Inner City multiple times without arresting any suspects, and the palace is heavily guarded, so where else could the attack be from if not the sky?” 
+
+He took another sip of ale. “As for the fire and smoke, they resemble the phenomenon caused when an alchemy solution called snow powder burns, 
+
+which is why I’m certain that this was an attack. By the way, I also have some information about snow powder, but you’d have to pay only a little more… ” 
+
+“No need, I don’t want to know.” Otto interrupted. He had already heard through other channels about snow powder, which was originally used in celebrations but could be modified into a weapon. Rats probably didn’t know anything about its specific content, so he didn’t feel like wasting his money. 
+
+“Alright, now I’ll answer your second question,” Hood said, splaying his hands indifferently. “This incident was certainly related to Prince Roland.” 
+
+“Why?” 
+
+“When did you arrive in King’s City? Of course, I’m not trying to ask about your background or… identity, since that’s a rule of Black Street, so you don’t have to answer me.” The Rat smiled. “What I mean is, if you arrived in King’s City in early autumn, you’d know this: His Highness sent thousands of soldiers to attack Western Region, but only very few returned, all bearing letters from Prince Roland to His Highness.” 
+
+All six Rats had mentioned this, which meant that it was probably true, but he continued to ask, “Are you talking about the warning of revenge? It sounds quite scary. Are you sure it’s not pure folklore?” 
+
+“Most letters were brought by the soldiers into the palace, and the few that were leaked were mostly seized by the City Hall, but Skeleton Fingers always surprises its clients. I actually have a preserved ‘warning’ with me.” Hood stuck up five fingers. “Considering it’s a very rare letter from Prince Roland himself, the price is slightly higher. What do you think?” 
+
+… 
+
+Otto Luoxi returned to the palace, and Belinda immediately stood up to greet him. “Any news?” 
+
+“Not much, but I did get my hands on a letter from Prince Roland.” He handed the wrinkly piece of paper to her, took off his coat, sat next to the fireplace, and told her all about what he had learned. “All six Rats gave similar answers to the second question, and this paper proves them right— Roland Wimbledon is not as weak as the King says he is, but the complete opposite. If the Kingdom of Dawn allies with Timothy, we may benefit very little and gain a tricky enemy.” 
+
+“But all the Rats’ answers to the first question were different,” Belinda said with a frown. 
+
+“This proves that the attack was very mysterious and difficult to understand, and I kind of believe what the last Rat said.” Otto sipped his hot tea and sighed. Spending too much time in the cheap pub made him very uncomfortable. 
+
+“From the sky?” Belinda gaped at him. “Are you crazy?” 
+
+“Of course not. If I hadn’t seen this letter, I wouldn’t dream of it either. Roland was very confident about the time and location of the attack, and only an attack from the sky would be able to pass the high city wall and strong fortifications, confusing even the shrewdest Rats.” He frowned. “However, what’s more important is what we do next.” 
+
+“With the imminent threat from the Church, they should stop fighting each other and join forces against their common enemy.” 
+
+“That’s not for us to decide.” Otto shook his head. “The only thing we can do is to find a reliable ally for the Kingdom of Dawn. His Highness Timothy Wimbledon seems a little… unreliable.” 
+
+“Are you really going to go to Western Region?” Belinda was shocked. “Isn’t that a place currently facing the dangers of the Months of the Demons?” 
+
+“It’s nothing compared to the danger of our kingdom collapsing,” he said after some silence. “You can stay here and wait for the new king’s response, while I travel alone to Western Region.” 
