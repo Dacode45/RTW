@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project rewrites (pdfs and markdown files in "source" directory) (a translated web novel, "Release That Witch") into polished literary prose. Each chapter becomes an individual Pandoc Markdown file in `book/` (e.g., `book/CH001.md`, `book/CH042.md`, …, `book/CH150.md`). The source contains rough/translated prose; the output should read like published fiction in the rhythmic-precision register described by the style guide.
+This project rewrites a translated web novel ("Release That Witch") into polished literary prose. Each chapter becomes an individual Pandoc Markdown file in `book/` (e.g., `book/CH001.md`, `book/CH042.md`, …, `book/CH1498.md`). The source contains rough/translated prose; the output should read like published fiction in the rhythmic-precision register described by the style guide.
 
 **Key constraint:** Only style and grammar are rewritten. Plot, characters, proper nouns, chronology, scene order, and structure are preserved exactly.
 
@@ -28,13 +28,18 @@ This is the most important principle. When you rewrite a chapter:
 
 ```
 RTW/
-├── source/                         # Source material (do not modify)
+├── source/                              # Source material (do not modify)
+│   ├── chapters/                        # Individual per-chapter source files
+│   │   ├── ch0001_source.md             #   ch0001_source.md … ch1498_source.md
+│   │   └── ...                          #   (1498 files, zero-padded to 4 digits)
+│   ├── CH1-150.md                       # Original bulk files (do not modify)
+│   └── ...
 ├── Style_Guide_and_Grading_Rubric.md    # Master style & grading document
-├── agent.md                             # This file
+├── CLAUDE.md                            # This file
 ├── book/                                # Output: one .md per chapter
 │   ├── CH001.md
 │   ├── CH041.md
-│   └── ...                              # Target: CH001–CH150
+│   └── ...                              # Target: CH001–CH1498
 ├── docs/superpowers/specs/              # Reference docs
 └── .github/workflows/build-epub.yml     # CI: builds EPUB from book/*.md
 ```
@@ -46,7 +51,7 @@ Each chapter goes through a **write → grade → revise** cycle using three dis
 ### Agent 1 — Rewriter
 
 - **System prompt:** Part One of `Style_Guide_and_Grading_Rubric.md` (the Rewriter's Checklist).
-- **Input:** The corresponding chapter from source directory. Mardown and pdf files.  (source prose).
+- **Input:** The corresponding pre-split source file from `source/chapters/ch{NNNN}_source.md` (zero-padded to 4 digits, e.g. `ch0001_source.md`, `ch0042_source.md`, `ch1201_source.md`).
 - **Output:** A rewritten chapter saved as `book/CHXXX.md`.
 - **Rules:**
   - Follow the eight essential rules and the extensive catalogue.
@@ -59,7 +64,7 @@ Each chapter goes through a **write → grade → revise** cycle using three dis
 ### Agent 2 — Grader
 
 - **System prompt:** Part Two of `Style_Guide_and_Grading_Rubric.md` (the Grading Rubric). The grader does **not** see Part One.
-- **Input:** The source chapter (from the md), the rewrite (from `book/CHXXX.md`), and — when available — the source text for the immediately preceding chapter (for cross-chapter continuity checking). The preceding chapter source is **not** required for CH001.
+- **Input:** The source chapter (from `source/chapters/ch{NNNN}_source.md`), the rewrite (from `book/CHXXX.md`), and — when available — the source file for the immediately preceding chapter (for cross-chapter continuity checking). The preceding chapter source is **not** required for CH001.
 - **Output:** A structured grade report with:
   1. Scores (1–5) across all eleven dimensions (Fidelity, Compression, Interiority, Imagery, Rhythm, Voice, Dialogue, Atmosphere, Grammar, Restraint, Logical & Continuity Consistency).
   2. Justification + specific quotations for each score.
@@ -90,7 +95,7 @@ If a chapter scores REVISE, it loops back through **Grade → Revise** until it 
 
 ## File Conventions
 
-- **Filename:** `book/CHXXX.md` — zero-padded to three digits (CH001, CH042, CH150).
+- **Filename:** `book/CHXXX.md` — zero-padded to at least three digits: CH001, CH042, CH999, CH1000, CH1498. Chapters below 1000 use three digits; chapters 1000+ use four digits naturally.
 - **Heading:** `# Chapter N: Title` — preserving the source chapter's title.
 - **Scene breaks:** Use `***` (three asterisks) on their own line.
 - **In-world documents:** Blockquote format (`>`).
@@ -107,7 +112,7 @@ pandoc -o RTW.epub --toc --toc-depth=1 \
   --metadata title="RTW" \
   --metadata author="Dacode45" \
   --metadata lang=en-US \
-  $(ls book/CH*.md | sort)
+  $(ls book/CH*.md | sort -V)
 ```
 
 Chapters must sort correctly by filename — hence the zero-padded numbering.
@@ -115,15 +120,17 @@ Chapters must sort correctly by filename — hence the zero-padded numbering.
 ## Current Progress
 
 - **Completed:** CH001, CH041–CH070 (31 chapters)
-- **Remaining:** CH002–CH040, CH071–CH150 (119 chapters)
+- **Remaining:** CH002–CH040, CH071–CH1498 (1,467 chapters)
 - **Priority:** Work sequentially from the lowest unwritten chapter number.
 
-## Working With the Source md
+## Working With the Source Files
 
-source files are large mds and pdfs. When processing:
-1. Extract one chapter at a time from the file.
-2. Identify chapter boundaries by headings/titles in the source.
-3. Process the full chapter text — do not truncate or summarize.
+Each chapter has its own pre-split source file in `source/chapters/`:
+
+- **Filename pattern:** `source/chapters/ch{NNNN}_source.md` — 4-digit zero-padded number.
+- **Examples:** `ch0001_source.md`, `ch0042_source.md`, `ch1201_source.md`, `ch1498_source.md`.
+- To rewrite chapter N, read `source/chapters/ch{NNNN}_source.md` directly — no extraction needed.
+- Process the full file text — do not truncate or summarize.
 
 ## Quality Principles (Quick Reference)
 
