@@ -1,0 +1,48 @@
+/* RTW EPUB stylesheet — modern clean trade-paperback look.
+   Target readers: Apple Books, Kobo, Calibre. Not tuned for Kindle. */
+
+body {
+  font-family: "Iowan Old Style", "Source Serif Pro", Charter, Georgia, serif;
+  font-size: 1em;
+  line-height: 1.55;
+  text-align: left;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+
+p {
+  text-indent: 1.4em;
+  margin: 0;
+}
+
+h1 + p,
+hr + p {
+  text-indent: 0;
+}
+
+h1 {
+  page-break-before: always;
+  text-align: center;
+  margin-top: 3em;
+  margin-bottom: 2em;
+  font-size: 1.5em;
+  font-weight: normal;
+  letter-spacing: 0.04em;
+}
+
+hr {
+  border: none;
+  text-align: center;
+  margin: 2em 0;
+  height: auto;
+}
+
+hr::before {
+  content: ". . .";
+  letter-spacing: 0.5em;
+}
+
+blockquote {
+  margin: 1.2em 2em;
+  font-size: 0.95em;
+}

@@ -8,7 +8,17 @@
       "Bash(python3 -c \"import fitz\")",
       "Bash(brew list *)",
       "Bash(pip install *)",
-      "Bash(python3 *)"
+      "Bash(python3 *)",
+      "Skill(superpowers:brainstorming)",
+      "Skill(superpowers:writing-plans)",
+      "Bash(pandoc --version)",
+      "PowerShell(Get-Command *)",
+      "PowerShell(winget *)",
+      "Bash(export PATH=\"$PATH:/c/Users/miaay/AppData/Local/Pandoc\")",
+      "Bash(mkdir -p /tmp/epubinspect)",
+      "Read(//tmp/**)",
+      "Bash(rm -rf RTW)",
+      "Bash(unzip -q -d RTW \"/c/Users/miaay/Documents/Claude/Projects/RTW/RTW.epub\")"
     ]
   }
 }

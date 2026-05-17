@@ -24,6 +24,7 @@ jobs:
       - name: Build EPUB
         run: |
           pandoc -o RTW.epub --toc --toc-depth=1 \
+            --css epub/styles.css \
             --metadata title="RTW" \
             --metadata author="Dacode45" \
             --metadata lang=en-US \
@@ -32,6 +33,7 @@ jobs:
       - name: Build Original RTW EPUB
         run: |
           pandoc -o "Original RTW.epub" --toc --toc-depth=1 \
+            --css epub/styles.css \
             --metadata title="Original RTW" \
             --metadata author="Dacode45" \
             --metadata lang=en-US \
