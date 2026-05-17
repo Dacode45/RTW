@@ -22,7 +22,7 @@ This is the most important principle. When you rewrite a chapter:
 
 - **When in doubt, ask: Does this reveal character or advance theme?** If yes, it belongs. Tighten it, sharpen it, improve its rhythm—but preserve it.
 
-- **Ensure you don't duplicate chapters** After a rewrite, compare with the prior chapter and make sure you didn't include the same content twice. 
+- **Ensure you don't duplicate chapters.** After a rewrite, read the opening of `ch{N+1}_source.md` and the closing of `ch{N-1}_source.md` and confirm that no content from either has been absorbed into this rewrite. Duplication can bleed in either direction — a rewrite may accidentally pull content from the *next* chapter just as easily as from the prior one. 
 
 ## Repository Layout
 
@@ -64,7 +64,7 @@ Each chapter goes through a **write → grade → revise** cycle using three dis
 ### Agent 2 — Grader
 
 - **System prompt:** Part Two of `Style_Guide_and_Grading_Rubric.md` (the Grading Rubric). The grader does **not** see Part One.
-- **Input:** The source chapter (from `source/chapters/ch{NNNN}_source.md`), the rewrite (from `book/CHXXX.md`), and — when available — the source file for the immediately preceding chapter (for cross-chapter continuity checking). The preceding chapter source is **not** required for CH001.
+- **Input:** The source chapter (from `source/chapters/ch{NNNN}_source.md`), the rewrite (from `book/CHXXX.md`), the source file for the immediately preceding chapter (for continuity checking), and the source file for the immediately following chapter (to detect forward bleed — content from the next chapter absorbed into this rewrite). The preceding chapter source is **not** required for CH001; the following chapter source is **not** required for CH1498.
 - **Output:** A structured grade report with:
   1. Scores (1–5) across all eleven dimensions (Fidelity, Compression, Interiority, Imagery, Rhythm, Voice, Dialogue, Atmosphere, Grammar, Restraint, Logical & Continuity Consistency).
   2. Justification + specific quotations for each score.
